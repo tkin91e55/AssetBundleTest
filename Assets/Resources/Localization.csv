@@ -1,0 +1,1425 @@
+Enable,Key,JP Text,TC Text
+1,S_STRPARM_ANIMAL_1,大ニワトリ,大雞
+1,S_STRPARM_ANIMAL_2,ヒヨコ,雛雞
+1,S_STRPARM_ANIMAL_3,大ヒヨコ,大雛雞
+1,S_STRPARM_ANIMAL_4,あひる,鴨子
+1,S_STRPARM_ANIMAL_5,大あひる,大鴨子
+1,S_STRPARM_ANIMAL_6,子あひる,小鴨子
+1,S_STRPARM_ANIMAL_7,ネコ,猫
+1,S_STRPARM_ANIMAL_8,大ネコ,大猫
+1,S_STRPARM_ANIMAL_9,コネコ,小猫
+1,S_STRPARM_ANIMAL_10,ネコ,猫
+1,S_STRPARM_ANIMAL_11,大ネコ,大猫
+1,S_STRPARM_ANIMAL_12,コネコ,小猫
+1,S_STRPARM_ANIMAL_13,イヌ,狗
+1,S_STRPARM_ANIMAL_14,大イヌ,大狗
+1,S_STRPARM_ANIMAL_15,子イヌ,小狗
+1,S_STRPARM_ANIMAL_16,イヌ,狗
+1,S_STRPARM_ANIMAL_17,大イヌ,大狗
+1,S_STRPARM_ANIMAL_18,子イヌ,小狗
+1,S_STRPARM_ANIMAL_19,スズメ,麻雀
+1,S_STRPARM_ANIMAL_20,大スズメ,大麻雀
+1,S_STRPARM_ANIMAL_21,カラス,烏鴉
+1,S_STRPARM_ANIMAL_22,大カラス,大烏鴉
+1,S_STRPARM_ANIMAL_23,ニワトリ,公雞
+1,S_RACETYPE_MESSAGE_1,只今、団体戦モードでプレイ中,現在正以團體戰模式進行遊戲
+1,S_RACETYPE_MESSAGE_2,只今、個人戦（対戦）でプレイ中,現在正以個人戰（對戰）進行遊戲
+1,S_RACETYPE_MESSAGE_3,只今、個人戦（一人）でプレイ中,現在正以個人戰（一人）進行遊戲
+1,S_RACETYPE_MESSAGE_4,只今、チュートリアルでプレイ中,現在正以教學模式進行遊戲
+1,S_RACETYPE_MESSAGE_5,只今、なんだか解らないモードでプレイ中,現在正以不明模式進行遊戲
+1,S_RACETYPE_MESSAGE_6,ＣＰＵはＷＲのデータ,ＣＰＵ是ＷＲ的數據
+1,S_RACETYPE_MESSAGE_7,ＣＰＵはメインのプレイヤーデータ,ＣＰＵ是主要的玩家數據
+1,S_RACETYPE_MESSAGE_8,ＣＰＵは普通,ＣＰＵ是普通
+1,S_RACETYPE_MESSAGE_9,ゴースト状態,GHOST 狀態
+1,S_RACETYPE_MESSAGE_10,Ｇ1モード開催中,Ｇ1模式開催中
+1,S_PET_RACE_DEF_1,柴犬1,柴犬1
+1,S_PET_RACE_DEF_2,柴犬2,柴犬2
+1,S_PET_RACE_DEF_3,柴犬3,柴犬3
+1,S_PET_RACE_DEF_4,縞ネコ1,條紋貓1
+1,S_PET_RACE_DEF_5,縞ネコ2,條紋貓2
+1,S_PET_RACE_DEF_6,縞ネコ2,條紋貓2
+1,S_PET_RACE_DEF_7,ニワトリ1,雞1
+1,S_PET_RACE_DEF_8,ニワトリ2,雞2
+1,S_PET_RACE_DEF_9,ニワトリ3,雞3
+1,S_PET_RACE_DEF_10,ひよこ1,雛雞1
+1,S_PET_RACE_DEF_11,ひよこ2,雛雞2
+1,S_PET_RACE_DEF_12,ひよこ3,雛雞3
+1,S_PET_RACE_DEF_13,レトリバー1,獵犬1
+1,S_PET_RACE_DEF_14,レトリバー2,獵犬2
+1,S_PET_RACE_DEF_15,レトリバー3,獵犬3
+1,S_PET_RACE_DEF_16,いいネコ1,好貓1
+1,S_PET_RACE_DEF_17,いいネコ2,好貓2
+1,S_PET_RACE_DEF_18,いいネコ3,好貓3
+1,S_PET_RACE_DEF_19,アヒル1,鴨子1
+1,S_PET_RACE_DEF_20,アヒル2,鴨子2
+1,S_PET_RACE_DEF_21,アヒル3,鴨子3
+1,S_PET_RACE_DEF_22,うさぎ1,兔子1
+1,S_PET_RACE_DEF_23,うさぎ2,兔子2
+1,S_PET_RACE_DEF_24,うさぎ3,兔子3
+1,S_PET_RACE_DEF_25,ちわわ1,吉娃娃1
+1,S_PET_RACE_DEF_26,ちわわ2,吉娃娃2
+1,S_PET_RACE_DEF_27,ちわわ3,吉娃娃3
+1,S_DOCMRACE_DATA_1,DOCM記念ダービー,DOCM紀念打吡
+1,S_DOCMRACE_DATA_2,[高松宮模擬],[高松宮模擬]
+1,S_DOCMRACE_DATA_3,[スプリンターズＳ模擬],[Sprinters Ｓ 模擬]
+1,S_DOCMRACE_DATA_4,[フェブラリーＳ模擬],[February Ｓ 模擬]
+1,S_DOCMRACE_DATA_5,[サマーダッシュ模擬],[Summer Dash 模擬]
+1,S_DOCMRACE_DATA_6,[ＤＯＣＣ模擬],[ＤＯＣＣ 模擬]
+1,S_DOCMRACE_DATA_7,[春天模擬],[春天模擬]
+1,S_DOCMRACE_SHOPNAME,ハニプラ,Honey Plaza
+1,S_DOCMRACE_LABEL_1,ブ%02d,Tic%02d
+1,S_DOCMRACE_LABEL_2,ハ%02d,Tac%02d
+1,S_DOCMRACE_LABEL_3,タ%02d,Toe%02d
+1,S_HORSEPARM_DEFAULTHNAME,ライ, 樂樂
+1,S_HORSEPARM_SETNAME_1,ラン,佳佳
+1,S_HORSEPARM_SETBREEDERNAME_1,ラン,佳佳
+1,S_HORSEPARM_SETNAME_2,ラン,佳佳
+1,S_HORSEPARM_SETBREEDERNAME_2,ラン,佳佳
+1,S_HORSEPARM_SETNAME_3,ラン,佳佳
+1,S_HORSEPARM_SETBREEDERNAME_3,ラン,佳佳
+1,S_HORSEPARM_SETNAME_4,ラン,佳佳
+1,S_HORSEPARM_SETBREEDERNAME_4,ラン,佳佳
+1,S_HORSEPARM_SETNAME_5,ラン,佳佳
+1,S_HORSEPARM_SETSIRENAME_1,チチ,父
+1,S_HORSEPARM_SETDAMNAME_1,ハハ,母
+1,S_HORSEPARM_SETSIRENAME_2,ラン,佳佳
+1,S_HORSEPARM_SETDAMNAME_2,ラン,佳佳
+1,S_HORSEPARM_SETSIRENAME_3,ラン,佳佳
+1,S_HORSEPARM_SETDAMNAME_3,ラン,佳佳
+1,S_HORSEPARMSTR_MESSAGE_1,# CRCの照合\n,# CRC校驗\n
+1,S_HORSEPARMSTR_MESSAGE_2,# データサイズ\n,# 數據大小\n
+1,S_HORSEPARMSTR_MESSAGE_3,# データバージョン\n,# 數據版本\n
+1,S_HORSEPARMSTR_MESSAGE_4,# データタイプ\n,# 數據類型\n
+1,S_HORSEPARMSTR_REG_DATA_1,# 馬のユニークID\n,# 馬的唯一ID\n
+1,S_HORSEPARMSTR_REG_DATA_2,# 名前\n,# 名稱\n
+1,S_HORSEPARMSTR_REG_DATA_3,# 禁則ワード辞書\n,# 禁止單詞字典\n
+1,S_HORSEPARMSTR_REG_DATA_4,# 性別\n,# 性別\n
+1,S_HORSEPARMSTR_REG_DATA_5,# 生産者ID\n,# 生產者ID\n
+1,S_HORSEPARMSTR_REG_DATA_6,# 生産者名前\n,# 生產者名稱\n
+1,S_HORSEPARMSTR_REG_DATA_7,# 生産日\n,# 生產日期\n
+1,S_HORSEPARMSTR_REG_DATA_8,# このオーナーID以外の使用を禁止する\n,# 禁止使用這非持有者的ID\n
+1,S_HORSEPARMSTR_REG_DATA_9,# 音声の句読点\n,# 語音的標點符號\n
+1,S_HORSEPARMSTR_REG_DATA_10,# 音声のアクセント\n,# 語音的口音\n
+1,S_HORSEPARMSTR_REG_DATA_11,# 親馬コメント\n,# 母馬註解\n
+1,S_HORSEPARMSTR_REG_DATA_12,# WR最高戦績\n,# WR最高戰績\n
+1,S_HORSEPARMSTR_REG_DATA_13,# 上記着順\n,# 上面紀錄之到達順序\n
+1,S_HORSEPARMSTR_REG_DATA_14,# ワールドレースの状態\n,# 世界比賽的狀態\n
+1,S_HORSEPARMSTR_REG_DATA_15,# ワールドレースの登録日\n,# 世界比賽的登記日期\n
+1,S_HORSEPARMSTR_REG_DATA_16,# 発音用中間言語\n,# 發音用的中間語言\n
+1,S_HORSEPARMSTR_REG_DATA_17,# ネット登録フラグ \n,# 網上登錄記號\n
+1,S_HORSEPARMSTR_LOOK_DATA_1,# 毛色\n,# 毛色\n
+1,S_HORSEPARMSTR_LOOK_DATA_2,# 流星（鼻面の白いところ）\n,# 流星（鼻面上白色的部份）\n
+1,S_HORSEPARMSTR_LOOK_DATA_3,# 足白\n,# 足白(蹄邊的白毛)\n
+1,S_HORSEPARMSTR_LOOK_DATA_4,# 性格\n,# 性格\n
+1,S_HORSEPARMSTR_LOOK_DATA_5,# 前髪\n,# 前髪\n
+1,S_HORSEPARMSTR_LOOK_DATA_6,# 毛色のDNA\n,# 毛色的DNA\n
+1,S_HORSEPARMSTR_LOOK_DATA_7,# 流星のDNA\n,# 流星的DNA\n
+1,S_HORSEPARMSTR_LOOK_DATA_8,# 性格のDNA\n,# 性格的DNA\n
+1,S_HORSEPARMSTR_LOOK_DATA_9,# 走行姿勢\n,# 行走姿勢\n
+1,S_HORSEPARMSTR_LOOK_DATA_10,# 遺伝力\n,# 遺傳力\n
+1,S_HORSEPARMSTR_LOOK_DATA_11,# メンコ柄\n,# 頭套圖案\n
+1,S_HORSEPARMSTR_LOOK_DATA_12,# メンコ柄色\n,# 頭套圖案顏色\n
+1,S_HORSEPARMSTR_LOOK_DATA_13,# メンコ地色\n,# 頭套底色\n
+1,S_HORSEPARMSTR_LOOK_DATA_14,# メンコ装備フラグ\n,# 頭套裝備記號\n
+1,S_HORSEPARMSTR_LOOK_DATA_15,# メンコ耳フラグ\n,# 頭套耳記號\n
+1,S_HORSEPARMSTR_LOOK_DATA_16,# メンコ耳色\n,# 頭套耳色\n
+1,S_HORSEPARMSTR_LOOK_DATA_17,# バンテージ柄\n,# 腳帶圖案\n
+1,S_HORSEPARMSTR_LOOK_DATA_18,# バンテージ柄色\n,# 腳帶圖案顏色\n
+1,S_HORSEPARMSTR_LOOK_DATA_19,# バンテージ地色\n,# 腳帶底色\n
+1,S_HORSEPARMSTR_LOOK_DATA_20,# バンテージ装備フラグ　前\n,# 腳帶裝備記號　前\n
+1,S_HORSEPARMSTR_LOOK_DATA_21,# バンテージ装備フラグ　後\n,# 腳帶裝備記號　後\n
+1,S_HORSEPARMSTR_LOOK_DATA_22,# シャドウロール\n,# Shadow Roll\n
+1,S_HORSEPARMSTR_LOOK_DATA_23,# シャドウロール装備フラグ\n,# Shadow Roll 裝備記號\n
+1,S_HORSEPARMSTR_LOOK_DATA_24,# チーク\n,# Teak\n
+1,S_HORSEPARMSTR_LOOK_DATA_25,# シャドウ装備フラグ\n,# Shadow 裝備記號\n
+1,S_HORSEPARMSTR_LOOK_DATA_26,# 頭絡(装飾品)\n,# 馬轡 (裝飾品)\n
+1,S_HORSEPARMSTR_LOOK_DATA_27,# 手綱(装飾品)\n,# 韁繩 (裝飾品)\n
+1,S_HORSEPARMSTR_LOOK_DATA_28,# 鞍(装飾品)\n,# 鞍 (裝飾品)\n
+1,S_HORSEPARMSTR_LOOK_DATA_29,# 腹帯(装飾品)\n,# 腹帯 (裝飾品)\n
+1,S_HORSEPARMSTR_LOOK_DATA_30,# リボン色１\n,# 絲帶顏色１\n
+1,S_HORSEPARMSTR_LOOK_DATA_31,# リボン色２\n,# 絲帶顏色２\n
+1,S_HORSEPARMSTR_LOOK_DATA_32,# リボン装備フラグ(装飾品)\n,# 絲帶裝備記號 (裝飾品)\n
+1,S_HORSEPARMSTR_LOOK_DATA_33,# シッポリボン装備フラグ(装飾品)\n,# 尾巴絲帶裝備記號 (裝飾品)\n
+1,S_HORSEPARMSTR_LOOK_DATA_34,# 毛色追加ビット\n,# 增加毛色Bit\n
+1,S_HORSEPARMSTR_CPU_DATA_1,# CPUの強さ序列 芝\n,# CPU的強度順序 草皮\n
+1,S_HORSEPARMSTR_CPU_DATA_2,# CPUの強さ序列 ダート\n,# CPU的強度順序 泥地\n
+1,S_HORSEPARMSTR_CPU_DATA_3,# CPUの賢さ\n,# CPU的聰明程度\n
+1,S_HORSEPARMSTR_CPU_DATA_4,# 胴柄  (勝負服)\n,# 身體圖案 (騎師服)\n
+1,S_HORSEPARMSTR_CPU_DATA_5,# 胴柄色(勝負服)\n,# 身體圖案顏色(騎師服)\n
+1,S_HORSEPARMSTR_CPU_DATA_6,# 胴地色(勝負服)\n,# 身體底色(騎師服)\n
+1,S_HORSEPARMSTR_CPU_DATA_7,# 袖柄  (勝負服)\n,# 袖圖案 (騎師服)\n
+1,S_HORSEPARMSTR_CPU_DATA_8,# 袖柄色(勝負服)\n,# 袖圖案顏色(騎師服)\n
+1,S_HORSEPARMSTR_CPU_DATA_9,# 袖地色(勝負服)\n,# 袖底色(騎師服)\n
+1,S_HORSEPARMSTR_RUNNING_DATA_1,# スピード\n,# 速度\n
+1,S_HORSEPARMSTR_RUNNING_DATA_2,# スタミナ\n,# 體力\n
+1,S_HORSEPARMSTR_RUNNING_DATA_3,# 切れ味\n,# 銳度\n
+1,S_HORSEPARMSTR_RUNNING_DATA_4,# 精神力\n,# 精神力\n
+1,S_HORSEPARMSTR_RUNNING_DATA_5,# スピード基準\n,# 速度基準\n
+1,S_HORSEPARMSTR_RUNNING_DATA_6,# スタミナ基準\n,# 體力基準\n
+1,S_HORSEPARMSTR_RUNNING_DATA_7,# 切れ味基準\n,# 銳度基準\n
+1,S_HORSEPARMSTR_RUNNING_DATA_8,# 精神力基準\n,# 精神力基準\n
+1,S_HORSEPARMSTR_RUNNING_DATA_9,# スピード突然変異\n,# 速度突然變化\n
+1,S_HORSEPARMSTR_RUNNING_DATA_10,# スタミナ突然変異\n,# 體力突然變化\n
+1,S_HORSEPARMSTR_RUNNING_DATA_11,# 切れ味突然変異\n,# 銳度突然變化\n
+1,S_HORSEPARMSTR_RUNNING_DATA_12,# 精神力突然変異\n,# 精神力突然變化\n
+1,S_HORSEPARMSTR_RUNNING_DATA_13,# 馬場適正\n,# 馬場修正\n
+1,S_HORSEPARMSTR_RUNNING_DATA_14,# 距離適正\n,# 距離修正\n
+1,S_HORSEPARMSTR_RUNNING_DATA_15,# 利き足\n,# 慣用腳\n
+1,S_HORSEPARMSTR_GROWTH_DATA_1,# スタート\n,# 出閘\n
+1,S_HORSEPARMSTR_GROWTH_DATA_2,# コーナー\n,# 轉彎\n
+1,S_HORSEPARMSTR_GROWTH_DATA_3,# 馬群突破\n,# 馬群突破\n
+1,S_HORSEPARMSTR_GROWTH_DATA_4,# 競り合い\n,# 競爭心\n
+1,S_HORSEPARMSTR_GROWTH_DATA_5,# 粘り強さ\n,# 韌性\n
+1,S_HORSEPARMSTR_GROWTH_DATA_6,# 瞬発力\n,# 爆發力\n
+1,S_HORSEPARMSTR_GROWTH_DATA_7,# スタートの成長\n,# 出閘的成長\n
+1,S_HORSEPARMSTR_GROWTH_DATA_8,# コーナーの成長\n,# 轉彎的成長\n
+1,S_HORSEPARMSTR_GROWTH_DATA_9,# 馬群突破の成長\n,# 馬群突破的成長\n
+1,S_HORSEPARMSTR_GROWTH_DATA_10,# 競り合いの成長\n,# 競爭心的成長\n
+1,S_HORSEPARMSTR_GROWTH_DATA_11,# 粘り強さの成長\n,# 韌性的成長\n
+1,S_HORSEPARMSTR_GROWTH_DATA_12,# 瞬発力の成長\n,# 爆發力的成長\n
+1,S_HORSEPARMSTR_GROWTH_DATA_13,# 成長パターン\n,# 成長格局\n
+1,S_HORSEPARMSTR_GROWTH_DATA_14,# 疲れ\n,# 疲勞\n
+1,S_HORSEPARMSTR_GROWTH_DATA_15,# 信頼度\n,# 信頼度\n
+1,S_HORSEPARMSTR_GROWTH_DATA_16,# ムチ疲れ\n,# 鞭打疲勞\n
+1,S_HORSEPARMSTR_GROWTH_DATA_17,# 特殊えさの食べた回数\n,# 食用特殊飼料的次數\n
+1,S_HORSEPARMSTR_PEDIGREE_DATA_1,# 父の名前\n,# 父馬的名字\n
+1,S_HORSEPARMSTR_PEDIGREE_DATA_2,# 父のID\n,# 父馬的ID\n
+1,S_HORSEPARMSTR_PEDIGREE_DATA_3,# 母の名前\n,# 母馬的名字\n
+1,S_HORSEPARMSTR_PEDIGREE_DATA_4,# 母のID\n,# 母馬的ID\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_1,# 芝での総賞金\n,# 草地賽的總獎金\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_2,# ダートでの総賞金\n,# 泥地賽的總獎金\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_3,# 芝1着回数 良\n,# 草地賽首名衝線次數 良好\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_4,# 芝2着回数 良\n,# 草地賽次名衝線次數 良好\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_5,# 芝3着回数 良\n,# 草地賽第3名衝線次數 良好\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_6,# 芝4着以下回数  良\n,# 草地賽4名以下衝線次數 良好\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_7,# 芝1着回数 やや重\n,# 草地賽首名衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_8,# 芝2着回数 やや重\n,# 草地賽次名衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_9,# 芝3着回数 やや重\n,# 草地賽第3名衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_10,# 芝4着以下回数  やや重\n,# 草地賽4名以下衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_11,# 芝1着回数 重\n,# 草地賽首名衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_12,# 芝2着回数 重\n,# 草地賽次名衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_13,# 芝3着回数 重\n,# 草地賽第3名衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_14,# 芝4着以下回数  重\n,# 草地賽4名以下衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_15,# 芝1着回数 不良\n,# 草地賽首名衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_16,# 芝2着回数 不良\n,# 草地賽次名衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_17,# 芝3着回数 不良\n,# 草地賽第3名衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_18,# 芝4着以下回数  不良\n,# 草地賽4名以下衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_19,# ダート1着回数 良\n,# 泥地賽首名衝線次數 良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_20,# ダート2着回数 良\n,# 泥地賽次名衝線次數 良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_21,# ダート3着回数 良\n,# 泥地賽第3名衝線次數 良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_22,# ダート4着以下回数  良\n,# 泥地賽4名以下衝線次數 良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_23,# ダート1着回数 やや重\n,# 泥地賽首名衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_24,# ダート2着回数 やや重\n,# 泥地賽次名衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_25,# ダート3着回数 やや重\n,# 泥地賽第3名衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_26,# ダート4着以下回数  やや重\n,# 泥地賽4名以下衝線次數 偏重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_27,# ダート1着回数 重\n,# 泥地賽首名衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_28,# ダート2着回数 重\n,# 泥地賽次名衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_29,# ダート3着回数 重\n,# 泥地賽第3名衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_30,# ダート4着以下回数  重\n,# 泥地賽4名以下衝線次數 重\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_31,# ダート1着回数 不良\n,# 泥地賽首名衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_32,# ダート2着回数 不良\n,# 泥地賽次名衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_33,# ダート3着回数 不良\n,# 泥地賽第3名衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_34,# ダート4着以下回数  不良\n,# 泥地賽4名以下衝線次數 不良\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_35,# 短距離1着回数\n,# 短距離首名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_36,# 短距離2着回数\n,# 短距離次名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_37,# 短距離3着回数\n,# 短距離第3名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_38,# 短距離4着以下回数\n,# 短距離4名以下衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_39,# 中距離1着回数\n,# 中距離首名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_40,# 中距離2着回数\n,# 中距離次名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_41,# 中距離3着回数\n,# 中距離第3名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_42,# 中距離4着以下回数\n,# 中距離4名以下衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_43,# 長距離1着回数\n,# 長距離首名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_44,# 長距離2着回数\n,# 長距離次名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_45,# 長距離3着回数\n,# 長距離第3名衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_46,# 長距離4着以下回数\n,# 長距離4名以下衝線次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_47,# 配合回数\n,# 配合次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_48,# 勝利レースフラグ\n,# 勝利賽事記號\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_49,# G1勝利回数\n,# G1勝利次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_50,# G2勝利回数\n,# G2勝利次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_51,# G3勝利回数\n,# G3勝利次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_52,# G1出走回数\n,# G1勝利次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_53,# G2出走回数\n,# G2勝利次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_54,# G3出走回数\n,# G3勝利次數\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_55,# 最速上がりタイム\n,# 最快速上坡時間\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_56,# 連続勝利\n,# 連續勝利\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_57,# 連続３位\n,# 連續３位\n
+1,S_HORSEPARMSTR_RACERECORD_DATA_58,# 連続５位\n,# 連續５位\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_1,# レースID\n,# 賽事ID\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_2,# 天気\n,# 天氣\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_3,# 馬場状態\n,# 馬場狀態\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_4,# 脚質\n,# 腳質\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_5,# 枠番\n,# 位置號碼\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_6,# 人気\n,# 人氣\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_7,# 結果\n,# 結果\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_8,# 通過順位\n,# 通過排位\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_9,# コーナー位置\n,# 轉彎位置\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_10,# ペース\n,# 步調\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_11,# タイム\n,# 時間\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_12,# 出だしタイム\n,# 開始時間\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_13,# 上がりタイム\n,# 上坡時間\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_14,# 前２走\n,# 前２名\n
+1,S_HORSEPARMSTR_RACERESULT_DATA_15,# 前3走\n,# 前3名\n
+1,S_OWNERPARM_PROFILE_OWNER_NAME,ラン,佳佳
+1,S_OWNERPARM_PROFILE_OST,店舗名,店舗名
+1,S_OWNERPARM_BREED_OWNER_NAME,ラン,佳佳
+1,S_OWNERPARMSTR_HEADER_1,#カード残り回数\n,# Card剩餘次數\n
+1,S_OWNERPARMSTR_HEADER_2,#カードバージョン\n,# Card版本\n
+1,S_OWNERPARMSTR_HEADER_3,#カード更新回数\n,# Card更新次數\n
+1,S_OWNERPARMSTR_HEADER_4,#暗証番号\n,# 個人識別碼\n
+1,S_OWNERPARMSTR_HEADER_5,#引き抜き対策ロックフラグ\n,# 挖角對策鎖定記號\n
+1,S_OWNERPARMSTR_HEADER_6,#引継ぎ済み\n,# 已繼承\n
+1,S_OWNERPARMSTR_HEADER_7,#カードシリアル\n,# Card Serial\n
+1,S_OWNERPARMSTR_HEADER_8,#引継ぎ前のカードシリアル\n,# 繼承前的Card Serial\n
+1,S_OWNERPARMSTR_HEADER_9,#サーバー登録済み\n,# 已登錄伺服器\n
+1,S_OWNERPARMSTR_PROFILE_1,# オーナーID\n,# 用戶ID\n
+1,S_OWNERPARMSTR_PROFILE_2,# 名前\n,# 名稱\n
+1,S_OWNERPARMSTR_PROFILE_3,# 禁則辞書\n,# 禁制詞典\n
+1,S_OWNERPARMSTR_PROFILE_4,# 音声の句読点\n,# 語音的標點\n
+1,S_OWNERPARMSTR_PROFILE_5,# 音声のアクセント\n,# 語音的口音\n
+1,S_OWNERPARMSTR_PROFILE_6,# 性別\n,# 性別\n
+1,S_OWNERPARMSTR_PROFILE_7,# 誕生月\n,# 出生月\n
+1,S_OWNERPARMSTR_PROFILE_8,# 誕生日\n,# 出生日\n
+1,S_OWNERPARMSTR_PROFILE_9,# 誕生日プレゼントフラグ\n,# 出生日禮品記號\n
+1,S_OWNERPARMSTR_PROFILE_10,# 利き腕\n,# 慣用手\n
+1,S_OWNERPARMSTR_PROFILE_11,# ダービーデビューの年\n,# 打吡出道的年份\n
+1,S_OWNERPARMSTR_PROFILE_12,# ダービーデビューの月\n,# 打吡出道的月份\n
+1,S_OWNERPARMSTR_PROFILE_13,# ダービーデビューの日\n,# 打吡出道的日子\n
+1,S_OWNERPARMSTR_PROFILE_14,# プロフィール公開レベル\n,# 個人資料公開等級\n
+1,S_OWNERPARMSTR_PROFILE_15,# プレイ店舗履歴\n,# Play店舗履歴\n
+1,S_OWNERPARMSTR_PROFILE_16,# プレイ店舗日付\n,# Play店舗日期\n
+1,S_OWNERPARMSTR_PROFILE_17,# ライバルオーナー\n,# 競敵用戶\n
+1,S_OWNERPARMSTR_PLAYRECORD_1,# 幸せ引退頭数\n,# 幸福退役匹數\n
+1,S_OWNERPARMSTR_PLAYRECORD_2,# スタート成功回数\n,# 出閘成功次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_3,# 調教完璧\n,# 完美訓練\n
+1,S_OWNERPARMSTR_PLAYRECORD_4,# ムチ打ちすぎの回数\n,# 鞭打過多的次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_5,# 蹴られ回数\n,# 被踢次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_6,# 通算対戦人数\n,# 通算對戰人數\n
+1,S_OWNERPARMSTR_PLAYRECORD_7,# 最大着差\n,# 最大衝線差距\n
+1,S_OWNERPARMSTR_PLAYRECORD_8,# 圧勝数\n,# 壓倒性勝利數\n
+1,S_OWNERPARMSTR_PLAYRECORD_9,# 最後に取得したオーナーランク\n,# 最後取得的用戶Rank\n
+1,S_OWNERPARMSTR_PLAYRECORD_10,# 最後に生まれた性別\n,# 最後生出的性別\n
+1,S_OWNERPARMSTR_PLAYRECORD_11,# その続いた回数\n,# 繼續的次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_12,# 一番人気で負けた回数\n,# 最人氣時戰敗次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_13,# ハナ差で2着になった回数\n,# 鼻差而成為2位次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_14,# ハナ差で1着になった回数\n,# 鼻差而成為1位次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_15,# 調教拒否された回数\n,# 拒絕訓練次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_16,# 牝馬勝利数\n,# 雌馬勝利數\n
+1,S_OWNERPARMSTR_PLAYRECORD_17,# 出遅れて勝利した回数\n,# 遅起步而勝利次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_18,# 単走調教で完璧を出した回数\n,# 單跑訓練完美次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_19,# 併せ調教で完璧を出した回数\n,# 合併訓練完美次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_20,# プール調教で完璧を出した回数\n,# 泳池訓練完美次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_21,# エサ箱をぶちまけた回数\n,# 踢翻飼料箱次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_22,# ヒヨコ出現回数\n,# 雛雞出現次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_23,# グランプリ勝利数\n,# 格蘭披治勝利數\n
+1,S_OWNERPARMSTR_PLAYRECORD_24,# オーナーズチャレンジ成功回数\n,# 用戶挑戰成功次數\n
+1,S_OWNERPARMSTR_PLAYRECORD_25,# PlayRecord実績フラグ\n,# PlayRecord成就記號\n
+1,S_OWNERPARMSTR_PLAYRECORD_26,# オーナー実績達成フラグ\n,# 用戶成就達成記號\n
+1,S_OWNERPARMSTR_PLAYRECORD_27,# PlayRecord実績獲得フラグ\n,# PlayRecord成就獲得記號\n
+1,S_OWNERPARMSTR_PLAYRECORD_28,# オーナー実績の報酬獲得したフラグ\n,# 已獲得用戶成就報酬的記號\n
+1,S_OWNERPARMSTR_PLAYRECORD_29,# 本日のチャレンジ\n,# 今日的挑戰\n
+1,S_OWNERPARMSTR_PLAYRECORD_30,# その本日\n,# 今日\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_1,# 予想レースID\n,# 予想賽事ID\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_2,# 予想馬番\n,# 予想馬順序\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_3,# 的中アイテム\n,# 猜中道具\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_4,# 予想回数\n,# 予想次數\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_5,# 的中回数\n,# 猜中次數\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_6,# 出場開催回\n,# 出場開催回\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_7,# 出場馬ID\n,# 出場馬ID\n
+1,S_OWNERPARMSTR_WORLDRACE_DATA_8,# WR過去最高戦績\n,# WR過去最高戰績\n
+1,S_OWNERPARMSTR_ITEM_DATA_1,# クラブポイント\n,# Club點數\n
+1,S_OWNERPARMSTR_ITEM_DATA_2,# クラブアイテム選択状況\n,# Club道具選擇状況\n
+1,S_OWNERPARMSTR_ITEM_DATA_3,# 胴柄  (勝負服)\n,# 身體圖案 (騎師服)\n
+1,S_OWNERPARMSTR_ITEM_DATA_4,# 胴柄色(勝負服)\n,# 身體圖案顏色(騎師服)\n
+1,S_OWNERPARMSTR_ITEM_DATA_5,# 胴地色(勝負服)\n,# 身體底色(騎師服)\n
+1,S_OWNERPARMSTR_ITEM_DATA_6,# 袖柄  (勝負服)\n,# 袖圖案 (騎師服)\n
+1,S_OWNERPARMSTR_ITEM_DATA_7,# 袖柄色(勝負服)\n,# 袖圖案顏色(騎師服)\n
+1,S_OWNERPARMSTR_ITEM_DATA_8,# 袖地色(勝負服)\n,# 袖底色(騎師服)\n
+1,S_OWNERPARMSTR_ITEM_DATA_9,# ムチ（色or種類)\n,# 鞭（顏色or種類)\n
+1,S_OWNERPARMSTR_ITEM_DATA_10,# メンコ柄\n,# 頭套圖案\n
+1,S_OWNERPARMSTR_ITEM_DATA_11,# メンコ柄色\n,# 頭套圖案顏色\n
+1,S_OWNERPARMSTR_ITEM_DATA_12,# メンコ地色\n,# 頭套底色\n
+1,S_OWNERPARMSTR_ITEM_DATA_13,# メンコ耳色\n,# 頭套耳色\n
+1,S_OWNERPARMSTR_ITEM_DATA_14,# メンコ耳覆い装着フラグ\n,# 頭套耳罩裝備記號\n
+1,S_OWNERPARMSTR_ITEM_DATA_15,# メンコ装着フラグ\n,# 頭套裝備記號\n
+1,S_OWNERPARMSTR_ITEM_DATA_16,# バンテージ柄\n,# 腳帶圖案\n
+1,S_OWNERPARMSTR_ITEM_DATA_17,# バンテージ柄色\n,# 腳帶圖案顏色\n
+1,S_OWNERPARMSTR_ITEM_DATA_18,# バンテージ地色\n,# 腳帶底色\n
+1,S_OWNERPARMSTR_ITEM_DATA_19,# バンテージ装着フラグ 前\n,# 腳帶裝備記號 前\n
+1,S_OWNERPARMSTR_ITEM_DATA_20,# バンテージ装着フラグ 後\n,# 腳帶裝備記號 後\n
+1,S_OWNERPARMSTR_ITEM_DATA_21,# シャドウロール\n,# Shadow Roll\n
+1,S_OWNERPARMSTR_ITEM_DATA_22,# シャドウロール装着フラグ\n,# Shadow Roll裝備記號\n
+1,S_OWNERPARMSTR_ITEM_DATA_23,# チーク\n,# 眼罩\n
+1,S_OWNERPARMSTR_ITEM_DATA_24,# チーク装着フラグ\n,# 眼罩裝備記號\n
+1,S_OWNERPARMSTR_ITEM_DATA_25,# 頭絡(装飾品)\n,# 馬轡(装飾品)\n
+1,S_OWNERPARMSTR_ITEM_DATA_26,# 手綱(装飾品)\n,# 韁繩(装飾品)\n
+1,S_OWNERPARMSTR_ITEM_DATA_27,# 鞍(装飾品)\n,# 鞍(装飾品)\n
+1,S_OWNERPARMSTR_ITEM_DATA_28,# 腹帯(装飾品)\n,# 腹帯(装飾品)\n
+1,S_OWNERPARMSTR_ITEM_DATA_29,# リボン色１\n,# 絲帶顏色１\n
+1,S_OWNERPARMSTR_ITEM_DATA_30,# リボン色２\n,# 絲帶顏色２\n
+1,S_OWNERPARMSTR_ITEM_DATA_31,# リボン装備フラグ(装飾品)\n,# 絲帶装備記號(装飾品)\n
+1,S_OWNERPARMSTR_ITEM_DATA_32,# 尻尾のリボン\n,# 尾巴的絲帶\n
+1,S_OWNERPARMSTR_OWNERRANK_1,# 現在のランク\n,# 現在的Rank\n
+1,S_OWNERPARMSTR_OWNERRANK_2,# ポイント\n,# 點數\n
+1,S_OWNERPARMSTR_OWNERRANK_3,# ポイント取得日\n,# 點數取得日\n
+1,S_OWNERPARMSTR_RACERECORD_1,# 馬場別\n,# 馬場分類\n
+1,S_OWNERPARMSTR_RACERECORD_2,# 距離別\n,# 距離分類\n
+1,S_OWNERPARMSTR_RACERECORD_3,# 脚質別\n,# 特性分類\n
+1,S_OWNERPARMSTR_RACERECORD_4,# グレード別\n,# 等級分類\n
+1,S_OWNERPARMSTR_RACERECORD_5,# 総賞金\n,# 總獎金\n
+1,S_OWNERPARMSTR_RACERECORD_6,# 連勝数\n,# 連勝數\n
+1,S_OWNERPARMSTR_RACERECORD_7,# 最大連勝数\n,# 最大連勝數\n
+1,S_OWNERPARMSTR_RACERECORD_8,# 連敗数\n,# 連敗數\n
+1,S_OWNERPARMSTR_RACERECORD_9,# 最大連敗数\n,# 最大連敗數\n
+1,S_OWNERPARMSTR_RACERECORD_10,# １開催で得た最高賞金\n,# １場賽事最高獎金\n
+1,S_OWNERPARMSTR_RACERECORD_11,# 重賞レース別勝利数\n,# 重獎賽事勝利數\n
+1,S_OWNERPARMSTR_RACERECORD_12,# 重賞出走回数\n,# 重獎出賽次數\n
+1,S_OWNERPARMSTR_RACERECORD_13,# 重賞勝利数\n,# 重獎勝利數\n
+1,S_OWNERPARMSTR_RACERECORD_14,# 特別賞受賞\n,# 特別獎賞受獎\n
+1,S_OWNERPARMSTR_RACERECORD_15,# 牡の生産頭数\n,# 雄馬的配種匹數\n
+1,S_OWNERPARMSTR_RACERECORD_16,# 牝の生産頭数\n,# 雌馬的配種匹數\n
+1,S_OWNERPARMSTR_RACERECORD_17,# 牡の引退頭数\n,# 雄馬的退役匹數\n
+1,S_OWNERPARMSTR_RACERECORD_18,# 牝の引退頭数\n,# 雌馬的退役匹數\n
+1,S_OWNERPARMSTR_RACERECORD_19,# 最近の順位\n,# 最近的排位\n
+1,S_OWNERPARMSTR_RACERECORD_20,# 最近の脚質\n,# 最近的特性\n
+1,S_OWNERPARMSTR_RACERECORD_21,# 最近のレースID\n,# 最近的賽事ID\n
+1,S_RACEHORSEABILITY_POSITION_1,[元:%3d] → ,[起點:%3d] → 
+1,S_RACEHORSEABILITY_POSITION_2,[底:%3d] → ,[初段:%3d] → 
+1,S_RACEHORSEABILITY_POSITION_3,[補:%3d] → ,[中間點:%3d] → 
+1,S_RACEHORSEABILITY_POSITION_4,[未:%3d] → ,[尾段:%3d] → 
+1,S_RACEHORSEABILITY_POSITION_5,[終:%3d] ,[終點:%3d] → 
+1,S_RACEHORSEABILITY_RACEDEBUG_1,基礎[RaceLv:%3d 総計:%3d(%3d) rate:%5.3f → %7.2f(load:%2d)] ,基礎[RaceLv:%3d 總計:%3d(%3d) rate:%5.3f → %7.2f(load:%2d)] 
+1,S_RACEHORSEABILITY_RACEDEBUG_2,賞金[Load:%3d 成長:%3d rate:%5.3f → %7.2f] ,獎金[Load:%3d 成長:%3d rate:%5.3f → %7.2f] 
+1,S_RACEHORSERUN_HORSENAME,ふぃーるざらっしゅ,Feel The Rush
+1,S_RACEMNG_DEBUGCSV_1,"#Growth, 項目,メモ\n","#Growth, 項目,Memo\n"
+1,S_RACEMNG_DEBUGCSV_2,"%d,スタート,0~127\n","%d,出閘,0~127\n"
+1,S_RACEMNG_DEBUGCSV_3,"%d,コーナー,0~127\n","%d,轉彎,0~127\n"
+1,S_RACEMNG_DEBUGCSV_4,"%d,馬群突破,0~127\n","%d,馬群突破,0~127\n"
+1,S_RACEMNG_DEBUGCSV_5,"%d,競り合い,0~127\n","%d,競爭心,0~127\n"
+1,S_RACEMNG_DEBUGCSV_6,"%d,粘り強さ,0~127\n","%d,韌性,0~127\n"
+1,S_RACEMNG_DEBUGCSV_7,"%d,瞬発力,0~127\n\n","%d,爆發力,0~127\n"
+1,S_RACEMNG_DEBUGCSV_8,"%d,疲れ,0~7\n","%d,疲勞,0~7\n"
+1,S_RACEMNG_DEBUGCSV_9,"%d,信頼度,0~32\n","%d,信頼度,0~32\n"
+1,S_RACEMNG_DEBUGCSV_10,"%d,ムチ疲れ,0~7\n\n","%d,鞭打疲勞,0~7\n\n"
+1,S_RACEMNG_DEBUGCSV_11,"%d,スピード,0~127\n","%d,速度,0~127\n"
+1,S_RACEMNG_DEBUGCSV_12,"%d,スタミナ,0~127\n","%d,體力,0~127\n"
+1,S_RACEMNG_DEBUGCSV_13,"%d,切れ味,0~127\n","%d,銳度,0~127\n"
+1,S_RACEMNG_DEBUGCSV_14,"%d,精神力,0~127\n\n","%d,精神力,0~127\n"
+1,S_RACEMNG_DEBUGCSV_15,"%d,芝適正,0~99\n","%d,草地賽修正,0~99\n"
+1,S_RACEMNG_DEBUGCSV_16,"%d,ダ適正,0~99\n","%d,泥地賽修正,0~99\n"
+1,S_RACEMNG_DEBUGCSV_17,"%d,距離適正,0~15\n","%d,距離修正,0~15\n"
+1,S_RACEMNG_DEBUGCSV_18,"%d,利き足,0~2,両 右 \n\n","%d,慣用腳,0~2,兩足 右 \n\n"
+1,S_RACEMNG_DEBUGCSV_19,#その他\n,#其他\n
+1,S_RACEMNG_DEBUGCSV_20,"0,ハンデ,0~5\n","0,Handicap,0~5\n"
+1,S_RACEMNG_DEBUGCSV_21,"%d,総レース数,0~63\n","%d,總賽事數,0~63\n"
+1,S_RACEMNG_DEBUGCSV_22,"0,ドーピング餌,0~31\n","0,Doping 飼料,0~31\n"
+1,S_RACEMNG_DEBUGCSV_23,"0,賢さＬＶ(CPUのみ),0~4\n","0,聰明LV (只限CPU),0~4\n"
+1,S_RACEMNG_DEBUGCSV_24,"%d,性別,	0~3,そのまま 牡 牝 \n","%d,性別, 0~3,原本  雄 雌\n"
+1,S_RACEPARM_PLACEMENT,頭 ,頭 
+1,S_RACEPROGRAM_WR_WINSPECIALRACE,WR優勝店舗記念,WR優勝店舗記念
+1,S_RACEPROGRAM_GETREGULATIONSTR,出走条件 無制限,出賽條件 無限制
+1,S_RACEPROGRAM_RACE_SERIES,シリーズ名未設定,未設定系列名
+1,S_RACEPROGRAM_SERIES_NAME,ＳＰモード,ＳＰ模式
+1,S_RACEREPLAY_HORSENAME_1,シェル%02d,馬1%02d
+1,S_RACEREPLAY_OWNERNAME_1,タケ%02d,騎師1%02d
+1,S_RACEREPLAY_SHOPNAME_1,フランス%02d,馬2%02d
+1,S_RACEREPLAY_HORSENAME_2,モンテ%02d,騎師2%02d
+1,S_RACEREPLAY_OWNERNAME_2,ユウイチ%02d,馬3%02d
+1,S_RACEREPLAY_SHOPNAME_2,福島%02d,騎師3
+1,S_RACEREPLAY_HORSENAME_3,ウマ%02d,馬4
+1,S_RACEREPLAY_OWNERNAME_3,オーナー%02d,騎師4
+1,S_RACEREPLAY_NAME_TBL_HORSE_1,ディープスカイ,馬5
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_1,四位洋文,騎師5
+1,S_RACEREPLAY_NAME_TBL_HORSE_2,サクセスブロッケン,馬6
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_2,横山典弘,騎師6
+1,S_RACEREPLAY_NAME_TBL_HORSE_3,ブラックシェル,馬7
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_3,武豊,騎師7
+1,S_RACEREPLAY_NAME_TBL_HORSE_4,タケミカヅチ,馬8
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_4,柴田善臣,騎師8
+1,S_RACEREPLAY_NAME_TBL_HORSE_5,アグネススターチ,馬9
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_5,赤木高太,騎師9
+1,S_RACEREPLAY_NAME_TBL_HORSE_6,モンテクリスエス,馬10
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_6,福永祐一,騎師10
+1,S_RACEREPLAY_NAME_TBL_HORSE_7,スマイルジャック,馬11
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_7,小牧太,騎師11
+1,S_RACEREPLAY_NAME_TBL_HORSE_8,アドマイヤコマンド,馬12
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_8,川田将雅,騎師12
+1,S_RACEREPLAY_NAME_TBL_HORSE_9,マイネルチャールズ,馬13
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_9,松岡正海,騎師13
+1,S_RACEREPLAY_NAME_TBL_HORSE_10,レインボーペガサス,馬14
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_10,安藤勝己,騎師14
+1,S_RACEREPLAY_NAME_TBL_HORSE_11,レッツゴーキリシマ,馬15
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_11,幸英明,騎師15
+1,S_RACEREPLAY_NAME_TBL_HORSE_12,サブジェクト,馬16
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_12,吉田豊,騎師16
+1,S_RACEREPLAY_NAME_TBL_HORSE_13,ベンチャーナイン,馬17
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_13,武士沢友,騎師17
+1,S_RACEREPLAY_NAME_TBL_HORSE_14,エーシンフォワード,馬18
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_14,和田竜二,騎師18
+1,S_RACEREPLAY_NAME_TBL_HORSE_15,フローテーション,馬19
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_15,藤岡佑介,騎師19
+1,S_RACEREPLAY_NAME_TBL_HORSE_16,メイショウクオリア,馬20
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_16,岩田康誠,騎師20
+1,S_RACEREPLAY_NAME_TBL_HORSE_17,ショウナンアルバ,馬21
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_17,蛯名正義,騎師21
+1,S_RACEREPLAY_NAME_TBL_HORSE_18,クリスタルウイング,馬22
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_18,内田博幸,騎師22
+1,S_RACEREPLAY_NAME_TBL_HORSE_19,ディープスカイ,馬23
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_19,オーナー1,騎師23
+1,S_RACEREPLAY_NAME_TBL_HORSE_20,サクセスブロッケン,馬24
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_20,オーナー2,騎師24
+1,S_RACEREPLAY_NAME_TBL_HORSE_21,ブラックシェル,馬25
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_21,オーナー3,騎師25
+1,S_RACEREPLAY_NAME_TBL_HORSE_22,タケミカヅチ,馬26
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_22,オーナー4,騎師26
+1,S_RACEREPLAY_NAME_TBL_HORSE_23,アグネススターチ,馬27
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_23,オーナー5,騎師27
+1,S_RACEREPLAY_NAME_TBL_HORSE_24,モンテクリスエス,馬28
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_24,オーナー6,騎師28
+1,S_RACEREPLAY_NAME_TBL_HORSE_25,スマイルジャック,馬29
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_25,オーナー7,騎師29
+1,S_RACEREPLAY_NAME_TBL_HORSE_26,アドマイヤコマンド,馬30
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_26,オーナー7,騎師30
+1,S_RACEREPLAY_NAME_TBL_HORSE_27,マイネルチャールズ,馬31
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_27,オーナー8,騎師31
+1,S_RACEREPLAY_NAME_TBL_HORSE_28,レインボーペガサス,馬32
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_28,オーナー9,騎師32
+1,S_RACEREPLAY_NAME_TBL_HORSE_29,レッツゴーキリシマ,馬33
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_29,オーナー10,騎師33
+1,S_RACEREPLAY_NAME_TBL_HORSE_30,サブジェクト,馬34
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_30,オーナー11,騎師34
+1,S_RACEREPLAY_NAME_TBL_HORSE_31,ベンチャーナイン,馬35
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_31,オーナー12,騎師35
+1,S_RACEREPLAY_NAME_TBL_HORSE_32,エーシンフォワード,馬36
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_32,オーナー13,騎師36
+1,S_RACEREPLAY_NAME_TBL_HORSE_33,フローテーション,馬37
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_33,オーナー14,騎師37
+1,S_RACEREPLAY_NAME_TBL_HORSE_34,メイショウクオリア,馬38
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_35,オーナー15,騎師38
+1,S_RACEREPLAY_NAME_TBL_HORSE_36,ショウナンアルバ,馬39
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_36,オーナー16,騎師39
+1,S_RACEREPLAY_NAME_TBL_HORSE_37,クリスタルウイング,馬40
+1,S_RACEREPLAY_NAME_TBL_JOCKEY_37,オーナー17,騎師40
+1,S_RACEREPLAY_DEBUG_HORSE_NAME_1,ポピー%02d[%s],馬41
+1,S_RACEREPLAY_DEBUG_OWNER_NAME_1,いけぞえけんいち,騎師41
+1,S_RACEREPLAY_DEBUG_SHOP_NAME_1,みなとみらい,馬42
+1,S_RACEREPLAY_DEBUG_HORSE_NAME_2,シェル%02d[%s],馬43
+1,S_RACEREPLAY_DEBUG_HORSE_NAME2,たけゆたか,馬44
+1,S_RACEREPLAY_DEBUG_OUT,"[ID:%2d, %2d番, %2d着, %2d人 OwnerR:%d] [leg:%d run:%d] [sex:%d user:%d diff:%2d time:%5d]\n","[ID:%2d, %2d順序, %2d位, %2d人 OwnerR:%d] [leg:%d run:%d] [sex:%d user:%d diff:%2d time:%5d]\n"
+1,S_RACESTRUCT_PLACEMENT,頭,頭
+1,S_RACETUNE_DEBUG,指定したトラックは番組表に存在しませんでした。,指定的賽道並不存在。
+1,S_WORLDRACE_DATA_1,[阪神芝１６００],[阪神草地賽１６００]
+1,S_WORLDRACE_DATA_2,[高松宮模擬],[高松宮模擬]
+1,S_WORLDRACE_DATA_3,[スプリンターズＳ模擬],[Sprinters Ｓ模擬]
+1,S_WORLDRACE_DATA_4,[フェブラリーＳ模擬],[February Ｓ模擬]
+1,S_WORLDRACE_DATA_5,[サマーダッシュ模擬],[Summer Dash 模擬]
+1,S_WORLDRACE_DATA_6,[ＤＯＣＣ模擬],[ＤＯＣＣ模擬]
+1,S_WORLDRACE_DATA_7,[春天模擬],[春天模擬]
+1,S_WORLDRACE_SHOPNAME,ハニプラ,Honey Plaza
+1,S_WORLDRACE_LABEL_1,ブ%02d,Tic%02d
+1,S_WORLDRACE_LABEL_2,ハ%02d,Tac%02d
+1,S_WORLDRACE_LABEL_3,タ%02d,Toe%02d
+1,S_WR_PARM_OWNERNAME,その日暮らし,馬主生
+1,S_WR_PARM_HORSENAME_1,ビールビールビール,零散馬名1
+1,S_WR_PARM_SHOPNAME,テキトーギーゴ,快樂購店
+1,S_WR_PARM_HORSENAME_2,ミアゲタモンダヨ,零散馬名2
+1,S_WR_PARM_COMMENT,やる気なし,沒有動機
+1,S_WR_PARM_WINHORSE,チャラチャラ,勝者為王
+1,S_WR_PARM_RACENAME,第%s回ワールドレース,第%s回WORLD賽事
+1,S_WR_PARM_SCHEDULE_DEBUG_1,WRスケジュール　ナシ,WR SCHEDULE NASHI
+1,S_WR_PARM_SCHEDULE_DEBUG_2,"第 << sched.count << ""回WR""","第 << sched.count << ""回WR"""
+1,S_WR_PARM_SCHEDULE_DEBUG_3,"開始( << t->tm_hour << ':' << t->tm_min << "")　""","開始( << t->tm_hour << ':' << t->tm_min << "")　"""
+1,S_WR_PARM_SCHEDULE_DEBUG_4,"締切( << t->tm_hour << ':' << t->tm_min << "")　""","結束( << t->tm_hour << ':' << t->tm_min << "")　"""
+1,S_WR_PARM_SCHEDULE_DEBUG_5,"放送( << t->tm_hour << ':' << t->tm_min << "")　""","放送( << t->tm_hour << ':' << t->tm_min << "")　"""
+1,S_CONVLIB_RACE_PROGRAM_LONG_1,チュートリアルレース,教學賽事
+1,S_CONVLIB_RACE_PROGRAM_SHORT_1,チュートリアル,教學
+1,S_CONVLIB_RACE_PROGRAM_LONG_2,ゴーストレース,Ghost賽事
+1,S_CONVLIB_RACE_PROGRAM_SHORT_2,ゴーストレース,Ghost賽事
+1,S_CONVLIB_RACE_PROGRAM_LONG_3,ゴーストレース,Ghost賽事
+1,S_CONVLIB_RACE_PROGRAM_SHORT_3,ゴーストレース,Ghost賽事
+1,S_PRAMTEST_ASSERT_1,日本ダービー（東京優駿）,日本打吡（東京優駿）
+1,S_PRAMTEST_ASSERT_2,日本ダービー,日本打吡
+1,S_PRAMTEST_ASSERT_3,東京,東京
+1,S_PRAMTEST_ASSERT_4,日本ダービー（東京優駿）,日本打吡（東京優駿）
+1,S_PRAMTEST_ASSERT_5,日本ダービー,日本打吡
+1,S_PRAMTEST_ASSERT_6,東京,東京
+1,S_STATISTICS_SHEET_1,オス,雄
+1,S_STATISTICS_SHEET_2,メス,雌
+1,S_TASKTEST_FORBIDDEN_NAME_1,チカン,(禁名1)
+1,S_TASKTEST_FORBIDDEN_NAME_2,バチカン,(禁名2)
+1,S_TASKTEST_FORBIDDEN_NAME_3,バチカンの聖人,(禁名3)
+1,S_TASKTEST_FORBIDDEN_NAME_4,チカンの性人,(禁名4)
+1,S_TASKTEST_HORSE_NAME_1,スーパーソニック,零散馬名3
+1,S_TASKTEST_SUBJECT_1,僕と契約して,(blank)
+1,S_TASKTEST_MESSAGEBODY_1,魔法少女になってよ！,(blank)
+1,S_TASKTEST_USER_COMMENT_1,ヘンタイ,unlimit
+1,S_TASKTEST_ASSERT_1,ウマコ,零散馬名4
+1,S_TASKTEST_ASSERT_2,新規登録プレゼント,新規登錄禮品
+1,S_TASKTEST_ASSERT_3,新規登録プレゼント,新規登錄禮品
+1,S_TASKTEST_ASSERT_4,友達紹介キャンペーン,介紹好友活動
+1,S_TASKTEST_ASSERT_5,友達紹介キャンペーン,介紹好友活動
+1,S_TASKTEST_ASSERT_6,友達紹介キャンペーン,介紹好友活動
+1,S_TASKTEST_ASSERT_7,昇格はないはず,應該沒有升級
+1,S_TASKTEST_ASSERT_8,昇格はないはず,應該沒有升級
+1,S_TASKTEST_ASSERT_9,未勝利勝利まで昇格はないはず,未勝利為止應該沒有升級
+1,S_TASKTEST_ASSERT_10,昇格戦はないはず,應該沒有升級戰
+1,S_TASKTEST_ASSERT_11,昇格戦はないはず,應該沒有升級戰
+1,S_TASKTEST_SUBJECT_2,僕と契約して,(chi_blank)
+1,S_TASKTEST_MESSAGEBODY_2,魔法少女になってよ！,(chi_blank)
+1,S_TASKTEST_ASSERT_12,有名馬に勝とう,戰勝有名馬
+1,S_TASKTEST_ASSERT_13,有名馬に勝利してレジェンドカードをゲットだぜ！,戰勝有名馬以得到 Legend Card！
+1,S_TASKTEST_SUBJECT_3,僕と契約して,(chi_blank)
+1,S_TASKTEST_MESSAGEBODY_3,魔法少女になってよ！,(chi_blank)
+1,S_TASKTEST_SUBJECT_4,僕と契約して,(chi_blank)
+1,S_TASKTEST_MESSAGEBODY_4,魔法少女になってよ！,(chi_blank)
+1,S_TASKTEST_SUBJECT_5,僕と契約して,(chi_blank)
+1,S_TASKTEST_MESSAGEBODY_5,魔法少女になってよ！,(chi_blank)
+1,S_TASKTEST_SUBJECT_6,プレゼントあげる,送禮
+1,S_TASKTEST_MESSAGEBODY_6,下心だよ！,這是別有用心的！
+1,S_TASKTEST_PACKET_STRING_1,<SUBJECT>おわび</SUBJECT><MESSAGE><ID>23</ID><ITEM>5</ITEM><NUM>5</NUM><TEXT>ゴメンゴメン</TEXT></MESSAGE>,<SUBJECT>道歉</SUBJECT><MESSAGE><ID>23</ID><ITEM>5</ITEM><NUM>5</NUM><TEXT>I am sorry</TEXT></MESSAGE>
+1,S_TASKTEST_PACKET_STRING_2,デバッグ,Debug
+1,S_TASKTEST_PACKET_STRING_3,デバッグ,Debug
+1,S_TASKTEST_PACKET_STRING_4,デバッグ,Debug
+1,S_TASKTEST_PACKET_STRING_5,デバッグ,Debug
+1,S_TASKTEST_PACKET_STRING_6,デバッグ,Debug
+1,S_TASKTEST_PACKET_STRING_7,デバッグ,Debug
+1,S_TASKTEST_PACKET_STRING_8,デバッグ,Debug
+1,C_TASKBASE_SYSTEM_DIALOG,ネットワークエラー,網絡錯誤
+1,C_TASKBASE_MESSAGE_1,通信に失敗しました。電波状況の良い場所で再度お試しください。,通信失敗。請於電波状態較好處重試。
+1,C_TASKBASE_MESSAGE_2,リトライ,重試
+1,C_TASKBASE_MESSAGE_3,エラーが発生しました。ログインが無効になりました。トップ画面に戻ります,發生錯誤。登入無効。回到主目錄
+1,C_TASKBASE_MESSAGE_4,サーバエラーが発生しました。ログインが無効になりました。トップ画面に戻ります,伺服器發生錯誤。登入無効。回到主目錄
+1,C_TASKBASE_MESSAGE_5,Derby Owners Club を遊ぶにはインターネットへの接続が必要です。3G回線とWi-Fiをサポートしています。,Derby Owners Club 需要網絡連接。支援3G或Wi-Fi。
+1,C_TASKBASE_MESSAGE_6,バージョンエラーです。アップデートを行ってください。,版本錯誤。請進行更新。
+1,C_TASKBASE_MESSAGE_7,サーバが混雑しています。しばらくたってからもう一度ログインしてください。,伺服器混雑中。請稍後再登入。
+1,C_TASKBASE_MESSAGE_8,ログインが無効になりました。トップ画面に戻ります,登入無効。回到主目錄
+1,C_TASKBASE_MESSAGE_9,アカウントは無効です。,帳戶無効。
+1,C_TASKBASE_MESSAGE_10,ただいまサーバメンテナンス中です。,現正伺服器維護中。
+1,C_TASKBASE_MESSAGE_11,タイムアウトにより切断しました。トップ画面に戻ります,因連接超時而中斷連接。回到主目錄
+1,C_TASKBASE_MESSAGE_12,この端末ではプレイできません。,不能以此設備遊玩。
+1,C_TASKBASE_MESSAGE_13,iOS端末で作成されたアカウントでログインをやり直してください。,請以iOS製作的帳戶再試一次登入。
+1,C_TASKBASE_MESSAGE_14,Android端末で作成されたアカウントでログインをやり直してください。,請以Android製作的帳戶再試一次登入。
+1,S_GHOST_MAKER_BREEDER_1,ウマコ,零散馬名4
+1,S_GHOST_MAKER_HORSE_NAME,フィールザラッシュ,零散馬名5
+1,S_GHOST_MAKER_OWNER_BIN,ウマコ,零散馬名4
+1,S_GHOST_MAKER_INVALID_RACE_1,名称未設定,名稱未設定
+1,S_GHOST_MAKER_INVALID_RACE_2,名称未設定,名稱未設定
+1,S_FORM1_GOUND_CONDITION_1,良,良好
+1,S_FORM1_GOUND_CONDITION_2,稍,偏重
+1,S_FORM1_GOUND_CONDITION_3,重,重
+1,S_FORM1_GOUND_CONDITION_4,不,不良
+1,S_FORM1_HORSE_SEX_1,牡,雄馬
+1,S_FORM1_HORSE_SEX_2,牝,雌馬
+1,S_FORM1_RACE_GRADE_1,未勝利,未勝利
+1,S_FORM1_RACE_GRADE_2,新馬,新馬
+1,S_FORM1_GRASS,芝,草地
+1,S_FORM1_MUD,ダ,泥地
+1,S_FORM1_DESIGNER_TAG_PAGE_1,馬データ作成,製作馬匹
+1,S_FORM1_DESIGNER_LABEL_1,戦数,戰數
+1,S_FORM1_DESIGNER_LABEL_2,信頼度,信頼度
+1,S_FORM1_DESIGNER_TAG_PAGE_2,ゴースト作成,Ghost製作
+1,S_FORM1_DESIGNER_TAG_PAGE_3,レースデータ作成,賽事數據製作
+1,S_FORM1_DESIGNER_CHECK_BOX,操作する,操作
+1,S_PROGRAM_USERNAME,マカロン,(用戶名)
+1,S_DUMMYSERVER_ITEM_ID,補填しました！¥n,已填補！¥n
+1,S_DUMMYSERVER_POSITION,着 [,順位 [
+1,S_DUMMYSERVER_FAVORITE,人気]¥n,人氣]¥n
+1,S_DUMMYSERVER_GRADE_NAME_1,オープン特別,OPEN特別
+1,S_DUMMYSERVER_GRADE_NAME_2,特別レース,特別比賽
+1,S_DUMMYSERVER_GRADE_NAME_3,オープン特別,OPEN特別
+1,S_DUMMYSERVER_GRADE_NAME_4,特別レース,特別比賽
+1,S_DUMMYSERVER_MSG_1,このメールアドレスは配信専用です、返信は行わないでください。¥r¥n,此Email為發信専用、請不要回信。¥r¥n
+1,S_DUMMYSERVER_MSG_2, オーナー様¥r¥n,用戶¥r¥n
+1,S_DUMMYSERVER_MSG_3,この度はメールアドレスをご登録をいただきまして、¥r¥n,得到閣下登錄Email、¥r¥n
+1,S_DUMMYSERVER_MSG_4,ありがとうございました。¥r¥n,十分感謝。¥r¥n
+1,S_DUMMYSERVER_MSG_5,お客様のメールアドレスは、パスワード再発行等の¥r¥n,客人的Email將會用於、密碼再發行¥r¥n
+1,S_DUMMYSERVER_MSG_6,ユーザー登録事務・管理目的、各種ご案内の連絡目的等に¥r¥n,"用戶登錄事務・管理目的、各種介紹等,連絡目的¥r¥n"
+1,S_DUMMYSERVER_MSG_7,利用させていただきます。¥r¥n,作出運用。¥r¥n
+1,S_DUMMYSERVER_MSG_8,これからもDERBY OWNERS CLUBをよろしくお願いいたします。¥r¥n,請多多指教DERBY OWNERS CLUB¥r¥n
+1,S_DUMMYSERVER_MSG_9,DERBY OWNERS CLUB 運営チーム¥r¥n,DERBY OWNERS CLUB 營運團隊¥r¥n
+1,S_DUMMYSERVER_MSG_10,このメールアドレスは配信専用です、返信は行わないでください。¥r¥n,此Email為發信専用、請不要回信。¥r¥n
+1,S_DUMMYSERVER_MSG_11, オーナー様¥r¥n,用戶様¥r¥n
+1,S_DUMMYSERVER_MSG_12,新しいパスワードは¥r¥n,新密碼為¥r¥n
+1,S_DUMMYSERVER_MSG_13,となります。¥r¥n,成為。¥r¥n
+1,S_DUMMYSERVER_MSG_14,これからもDERBY OWNERS CLUBをよろしくお願いいたします。¥r¥n,請多多指教DERBY OWNERS CLUB。¥r¥n
+1,S_DUMMYSERVER_MSG_15,DERBY OWNERS CLUB 運営チーム¥r¥n,DERBY OWNERS CLUB 營運團隊¥r¥n
+1,S_DUMMYSERVER_DATABASE_TASK,お詫び,道歉
+1,C_GAMECONTEXT_ALERT_BODY,そろそろ馬たちが\nさみしがっているようです,差不多馬匹們\n開始覺得寂莫
+1,C_GAMECONTEXT_ALERT_ACTION,確認,確認
+1,C_GAMESTATIC_CAREER_FORMAT_STR,"{0,2}戦{1,2}勝","{0,2}戰{1,2}勝"
+1,C_GAMESTATIC_INVITE_MAIL_SUBJECT,DERBY OWNERS CLUBを遊ぼう！,遊玩DERBY OWNERS CLUB吧！
+1,C_GAMESTATIC_INVITE_BODY,競馬アプリの決定版！DERBY OWNERS CLUBを一緒に遊ぼう！アプリをインストールしてから、次のURLにアクセスしてアプリを起動すれば豪華レアアイテムが必ずもらえる！,競馬APP決定版！一起玩DERBY OWNERS CLUB吧!！安裝APP後、按下此連結以得到豪華道具！
+1,C_GAMESTATIC_TIME_BONUS_TEXT,\n\n更に「イベント限定レース」に出走すれば\nAT×{0}(無料分)がプレゼントされます！,\n\n要是參加「活動限定賽事」更會得到\nAT×{0}(免費分)！
+1,C_IN_APP_BILLING_TITLE_1, 課金処理エラー ,課金處理錯誤
+1,C_IN_APP_BILLING_MSG_1, 購入処理中です ,購買處理中
+1,C_IN_APP_BILLING_TITLE_2, 課金処理エラー ,課金處理錯誤
+1,C_IN_APP_BILLING_MSG_2, エラーが起きたのでタイトルに戻ります ,"因發生錯誤, 回到主目錄。"
+1,C_NATIVE_OBSERVER_SYSTEM_DIALOG,"""購入に失敗しました""","""購買失敗"""
+1,C_NATIVE_OBSERVER_TITLE,課金処理エラー,課金處理錯誤
+1,C_NATIVE_OBSERVER_MSG,エラーが起きたのでタイトルに戻ります。,"因發生錯誤, 回到主目錄。"
+1,C_STRING_UTIL_STR_1,牡馬,雄馬
+1,C_STRING_UTIL_STR_2,牝馬,雌馬
+1,C_STRING_UTIL_STR_3,せん馬,閹馬
+1,C_STRING_UTIL_STR_4,牝馬,雌馬
+1,C_STRING_UTIL_STR_5,毛色 ,毛顏色
+1,C_STRING_UTIL_RETIRE_LEG_TYPE_1,バランス,平衡
+1,C_STRING_UTIL_RETIRE_LEG_TYPE_2,スタミナ,體力
+1,C_STRING_UTIL_RETIRE_LEG_TYPE_3,スピード,速度
+1,C_STRING_UTIL_RETIRE_LEG_SHORT_1,バラ,平衡
+1,C_STRING_UTIL_RETIRE_LEG_SHORT_2,スタ,體力
+1,C_STRING_UTIL_RETIRE_LEG_SHORT_3,スピ,速度
+1,C_STRING_UTIL_BATTLE_TURN,{0}戦,{0}戰
+1,C_STRING_UTIL_STR_6,脚質,特性
+1,C_STRING_UTIL_STR_7,タイプ,種類
+1,C_HORSE_STATUS_FUR_1,栗毛,栗色毛
+1,C_HORSE_STATUS_FUR_2,栗毛,栗色毛
+1,C_HORSE_STATUS_FUR_3,栃栗毛,深栗色毛
+1,C_HORSE_STATUS_FUR_4,鹿毛,棗色毛
+1,C_HORSE_STATUS_FUR_5,鹿毛,棗色毛
+1,C_HORSE_STATUS_FUR_6,鹿毛,棗色毛
+1,C_HORSE_STATUS_FUR_7,黒鹿毛,黒棗色毛
+1,C_HORSE_STATUS_FUR_8,黒鹿毛,黒棗色毛
+1,C_HORSE_STATUS_FUR_9,青鹿毛,青棗色毛
+1,C_HORSE_STATUS_FUR_10,青毛,黑色毛
+1,C_HORSE_STATUS_FUR_11,芦毛,灰色毛
+1,C_HORSE_STATUS_FUR_12,芦毛,灰色毛
+1,C_HORSE_STATUS_FUR_13,芦毛,灰色毛
+1,C_HORSE_STATUS_FUR_14,芦毛,灰色毛
+1,C_HORSE_STATUS_FUR_15,特殊芦毛,特殊灰色毛
+1,C_HORSE_STATUS_FUR_16,粕毛,沙色毛
+1,C_HORSE_STATUS_FUR_17,白毛,白毛
+1,C_HORSE_STATUS_FUR_18,ブロンズ,金毛
+1,C_HORSE_STATUS_FUR_19,白黒,白黒
+1,C_HORSE_STATUS_FUR_20,黒白,黒白
+1,C_HORSE_STATUS_FUR_21,黒白斑毛,黒白斑毛
+1,C_HORSE_STATUS_FUR_22,パロミノ,Palomino
+1,C_HORSE_STATUS_FUR_23,ダルメシアン,Dalmatian
+1,C_HORSE_STATUS_FUR_24,茶白斑毛,茶白斑毛
+1,C_HORSE_STATUS_FUR_25,ロバ,Donkey
+1,C_HORSE_STATUS_FUR_26,ドーベルマン,Doberman
+1,C_HORSE_STATUS_FUR_27,パンダ,Panda
+1,C_HORSE_STATUS_FUR_28,シマウマ,Zebra
+1,C_HORSE_STATUS_FUR_29,オカピ,Okapi
+1,C_HORSE_STATUS_FUR_30,マサイキリン,Masai giraffe
+1,C_HORSE_STATUS_FUR_31,トラ,Tiger
+1,C_HORSE_STATUS_FUR_32,ヒョウ,Leopard
+1,C_HORSE_STATUS_FUR_33,ホワイトタイガー,White Tiger
+1,C_HORSE_STATUS_FUR_34,ユキヒョウ,Snow leopard
+1,C_HORSE_STATUS_FUR_35,アパルーサ,Appaloosa
+1,C_HORSE_STATUS_FUR_36,グリュラ,Guryura
+1,C_HORSE_STATUS_FUR_37,シルバーブラック,Silver Black
+1,C_HORSE_STATUS_FUR_38,尾花栗毛,尾花栗色毛
+1,C_HORSE_STATUS_FUR_39,連銭パロミノ,連銭Palomino
+1,C_HORSE_STATUS_FUR_40,栗粕毛,栗粕毛
+1,C_HORSE_STATUS_FUR_41,青粕毛,青粕毛
+1,C_HORSE_STATUS_FUR_42,フィヨルド,Fjord
+1,C_HORSE_STATUS_FUR_43,ペルシュロン,Perushuron
+1,C_HORSE_STATUS_FUR_44,ロッキーマウンテンホース,Rocky Mountain Horse
+1,C_HORSE_STATUS_FUR_45,クリーブランドベイ,Cleveland Bay
+1,C_HORSE_STATUS_FUR_46,連銭芦毛,連銭芦毛
+1,C_HORSE_STATUS_FUR_47,パンガレ,Bangare
+1,C_HORSE_STATUS_FUR_48,ブリンドル,Brindle
+1,C_HORSE_STATUS_FUR_49,エクスムア,Exmoor
+1,C_HORSE_STATUS_FUR_50,シャンパーニュ,Champagne
+1,C_HORSE_STATUS_FUR_51,黒茶斑毛,黒茶斑毛
+1,C_HORSE_STATUS_FUR_52,黒金,黒金
+1,C_HORSE_STATUS_FUR_53,ダークカーリー,Dark Curly
+1,C_HORSE_STATUS_FUR_54,ブライトカーリー,Bright Curly
+1,C_HORSE_STATUS_FUR_55,アイスランドホース,Iceland hose
+1,C_HORSE_STATUS_FUR_56,サビーノ,Sabino
+1,C_HORSE_STATUS_FUR_57,三毛,三毛
+1,C_HORSE_STATUS_FUR_58,羊,羊
+1,C_HORSE_STATUS_FUR_59,ソマリノロバ,Somarinoroba
+1,C_HORSE_STATUS_FUR_60,バンビ,Bambi
+1,C_HORSE_STATUS_FUR_61,レッサーパンダ,Red Panda
+1,C_HORSE_STATUS_FUR_62,スカンク,Skunk
+1,C_HORSE_STATUS_FUR_63,ポインター,Pointer
+1,C_HORSE_STATUS_FUR_64,シマブチ,Shimabuchi
+1,C_HORSE_STATUS_FUR_65,ファイアゼブラ,Fire zebra
+1,C_HORSE_STATUS_FUR_66,麒麟,麒麟
+1,C_HORSE_STATUS_FUR_67,朱雀,朱雀
+1,C_HORSE_STATUS_FUR_68,玄武,玄武
+1,C_HORSE_STATUS_FUR_69,青龍,青龍
+1,C_HORSE_STATUS_FUR_70,白虎,白虎
+1,C_HORSE_STATUS_FUR_71,金虎,金虎
+1,C_HORSE_STATUS_FUR_72,アメジスト,Amethyst
+1,C_HORSE_STATUS_FUR_73,青豹,青豹
+1,C_HORSE_STATUS_FUR_74,ぺブル,Pebble
+1,C_HORSE_STATUS_FUR_75,黒虎,黒虎
+1,C_HORSE_STATUS_FUR_76,アルビノゼブラ,Albino zebra
+1,C_HORSE_STATUS_FUR_77,アメショー,Amesho
+1,C_HORSE_STATUS_FUR_78,メタル,Metal
+1,C_HORSE_STATUS_FUR_79,ゾース,Zosu
+1,C_HORSE_STATUS_FUR_80,ネガパンダ,Negapanda
+1,C_HORSE_STATUS_FUR_81,黒麒麟,黒麒麟
+1,C_HORSE_STATUS_FUR_82,チョコマーブル,Choco Marble
+1,C_HORSE_STATUS_FUR_83,カプチーノ,Cappuccino
+1,C_HORSE_STATUS_FUR_84,黒芝,黒芝
+1,C_HORSE_STATUS_FUR_85,枯茶,枯茶
+1,C_HORSE_STATUS_FUR_86,金茶パンガレ,Gold tea Pangare
+1,C_HORSE_STATUS_FUR_87,茶サビーノ,Tea Sabino
+1,C_HORSE_STATUS_FUR_88,トラシマブチ,Torashimabuchi
+1,C_HORSE_STATUS_FUR_89,赤毛,Redhead
+1,C_HORSE_STATUS_FUR_90,アパルーサブランケット,Appaloosa blanket
+1,C_HORSE_STATUS_FUR_91,ミックス,Mix
+1,C_HORSE_STATUS_FUR_92,アパルーサレオパード,Leopard Appaloosa
+1,C_HORSE_STATUS_FUR_93,ワオキツネザル,Ring-tailed lemur
+1,C_HORSE_STATUS_FUR_94,青灰毛,Ash blue hair
+1,C_HORSE_STATUS_FUR_95,ハクトウワシ,Bald Eagle
+1,C_HORSE_STATUS_FUR_96,茶芦毛,Chaashike
+1,C_HORSE_STATUS_FUR_97,薄茶ロバ,Light brown donkey
+1,C_HORSE_STATUS_FUR_98,鹿粕毛,Roan deer
+1,C_HORSE_STATUS_FUR_99,茶ブチポインター,Tea butyrate pointer
+1,C_HORSE_STATUS_FUR_100,ヨウム,Gray parrot
+1,C_HORSE_STATUS_FUR_101,ハート,Heart
+1,C_HORSE_STATUS_FUR_102,黒レインボー,Black Rainbow
+1,C_HORSE_STATUS_FUR_103,白レインボー,White Rainbow
+1,C_HORSE_STATUS_FUR_104,マレーバク,Malayan tapir
+1,C_HORSE_STATUS_FUR_105,ゴールドぺブル,Gold Pebble
+1,C_HORSE_STATUS_FUR_106,黄金ブロンズ,Golden bronze
+1,C_HORSE_STATUS_FUR_107,ヤマアラシ,Porcupine
+1,C_HORSE_STATUS_FUR_108,スモーキークリーム,Smoky cream
+1,C_HORSE_STATUS_FUR_109,スズメ,Sparrow
+1,C_HORSE_STATUS_FUR_110,ユニコーン,Unicorn
+1,C_HORSE_STATUS_FUR_111,茶トラ,Orange tabby
+1,C_HORSE_STATUS_FUR_112,ゾースミックス,Zosumikkusu
+1,C_HORSE_STATUS_FUR_113,茶ブリンドル,Brown brindle
+1,C_HORSE_STATUS_FUR_114,リトルマレーバク,Little Murray tapir
+1,C_HORSE_STATUS_FUR_115,ボルケーノ,Volcano
+1,C_HORSE_STATUS_FUR_116,クリスタル,Crystal
+1,C_HORSE_STATUS_FUR_117,モンガラ,Triggerfish
+1,C_HORSE_STATUS_FUR_118,サクラ,Sakura
+1,C_HORSE_STATUS_FUR_119,うりぼう,Uribou
+1,C_HORSE_STATUS_FUR_120,デザートタイガー,Desert Tiger
+1,C_HORSE_STATUS_FUR_121,ジンベエザメ,Whale Shark
+1,C_HORSE_STATUS_FUR_122,フラミンゴ,Flamingo
+1,C_HORSE_STATUS_FUR_123,シベリアンハスキー,Siberian husky
+1,C_HORSE_STATUS_FUR_124,ヤマメ,Salmon
+1,C_HORSE_STATUS_FUR_125,キングチーター,King Cheetah
+1,C_HORSE_STATUS_FUR_126,未設定126,未設定126
+1,C_HORSE_STATUS_FUR_127,未設定127,未設定127
+1,C_HORSE_TASTE_FEED_1,ニンジン,紅蘿蔔
+1,C_HORSE_TASTE_FEED_2,ニンジン,紅蘿蔔
+1,C_HORSE_TASTE_FEED_3,飼い葉,草料
+1,C_HORSE_TASTE_FEED_4,飼い葉,草料
+1,C_HORSE_TASTE_FEED_5,リンゴ,蘋果
+1,C_HORSE_TASTE_FEED_6,リンゴ,蘋果
+1,C_HORSE_TASTE_FEED_7,大根,白蘿蔔
+1,C_HORSE_TASTE_FEED_8,大根,白蘿蔔
+1,C_HORSE_TASTE_FEED_9,大豆,黃豆
+1,C_HORSE_TASTE_FEED_10,大豆,黃豆
+1,C_HORSE_TASTE_FEED_11,チーズ,芝士
+1,C_HORSE_TASTE_FEED_12,チーズ,芝士
+1,C_HORSE_TASTE_FEED_13,バナナ,香蕉
+1,C_HORSE_TASTE_FEED_14,キノコ,蘑菇
+1,C_HORSE_TASTE_FEED_15,スイーツ,甜品
+1,C_HORSE_TASTE_FEED_16,にぼし,沙丁魚
+1,C_DOCM_STR_UTIL_LEG_TYPE_1,逃げ,放頭
+1,C_DOCM_STR_UTIL_LEG_TYPE_2,先行,居前
+1,C_DOCM_STR_UTIL_LEG_TYPE_3,差し,溜後
+1,C_DOCM_STR_UTIL_LEG_TYPE_4,追込,後上
+1,C_DOCM_STR_UTIL_LEG_TYPE_5,自在,自在
+1,C_DOCM_STR_UTIL_LEG_TYPE_6,自在,自在
+1,C_DOCM_STR_UTIL_LEG_TYPE_SHORT_1,逃,放頭
+1,C_DOCM_STR_UTIL_LEG_TYPE_SHORT_2,先,居前
+1,C_DOCM_STR_UTIL_LEG_TYPE_SHORT_3,差,溜後
+1,C_DOCM_STR_UTIL_LEG_TYPE_SHORT_4,追,後上
+1,C_DOCM_STR_UTIL_LEG_TYPE_SHORT_5,自,自在
+1,C_DOCM_STR_UTIL_LEG_TYPE_SHORT_6,自,自在
+1,C_DOCM_STR_UTIL_GRD_TURF_1,芝,草地
+1,C_DOCM_STR_UTIL_GRD_DIRT_1,ダート,泥地賽
+1,C_DOCM_STR_UTIL_GRD_WOOD_1,ウッドチップ,木片
+1,C_DOCM_STR_UTIL_GRD_SLOPE_1,坂路,斜路
+1,C_DOCM_STR_UTIL_GRD_DEFAULT_1,芝,草
+1,C_DOCM_STR_UTIL_GRD_TURF_SHORT_1,芝,草
+1,C_DOCM_STR_UTIL_GRD_DIRT_SHORT_1,ダ,泥
+1,C_DOCM_STR_UTIL_GRD_WOOD_SHORT_1,ウ,木
+1,C_DOCM_STR_UTIL_GRD_SLOPE_SHORT_1,坂,斜
+1,C_DOCM_STR_UTIL_GRD_DEFAULT_SHORT_1,芝,草
+1,C_DOCM_STR_UTIL_MALE,牡,雄
+1,C_DOCM_STR_UTIL_FEMALE,牝,雌
+1,C_DOCM_STR_UTIL_SEX_GELD,セ,(未知性別)
+1,C_DOCM_STR_UTIL_SEX_DEFAULT,セ,(未知性別)
+1,C_DOCM_STR_UTIL_FUR_1,栗毛,栗色毛
+1,C_DOCM_STR_UTIL_FUR_2,栃栗毛,深栗色毛
+1,C_DOCM_STR_UTIL_FUR_3,鹿毛,棗色毛
+1,C_DOCM_STR_UTIL_FUR_4,黒鹿毛,黒棗色毛
+1,C_DOCM_STR_UTIL_FUR_5,青鹿毛,青棗色毛
+1,C_DOCM_STR_UTIL_FUR_6,青毛,黑色毛
+1,C_DOCM_STR_UTIL_FUR_7,芦毛,灰色毛
+1,C_DOCM_STR_UTIL_FUR_8,特殊毛,特殊毛
+1,C_DOCM_STR_UTIL_RACE_TYPE_1,OP特,OP特
+1,C_DOCM_STR_UTIL_RACE_TYPE_2,OPEN特別,OPEN特別
+1,C_DOCM_STR_UTIL_RACE_TYPE_3,短距離,短距離
+1,C_DOCM_STR_UTIL_RACE_TYPE_4,中距離,中距離
+1,C_DOCM_STR_UTIL_RACE_TYPE_5,長距離,長距離
+1,C_DOCM_STR_UTIL_GRD_CONDITION_1,良,良好
+1,C_DOCM_STR_UTIL_GRD_CONDITION_2,やや重,偏重
+1,C_DOCM_STR_UTIL_GRD_CONDITION_3,重,重
+1,C_DOCM_STR_UTIL_GRD_CONDITION_4,不良,不良
+1,C_DOCM_STR_UTIL_HORSE_CHAR_1,素直,率直
+1,C_DOCM_STR_UTIL_HORSE_CHAR_2,荒い,粗暴
+1,C_DOCM_STR_UTIL_HORSE_CHAR_3,臆病,怯懦
+1,C_DOCM_STR_UTIL_HORSE_CHAR_4,素直,率直
+1,C_DOCM_STR_UTIL_HORSE_INHERIT_1,父親似,父親似
+1,C_DOCM_STR_UTIL_HORSE_INHERIT_2,母親似,母親似
+1,C_DOCM_STR_UTIL_DIFF_1,同着,同時到達
+1,C_DOCM_STR_UTIL_DIFF_2,ハナ,鼻
+1,C_DOCM_STR_UTIL_DIFF_3,短頭,短頭
+1,C_DOCM_STR_UTIL_DIFF_4,頭,頭
+1,C_DOCM_STR_UTIL_DIFF_5,短首,短首
+1,C_DOCM_STR_UTIL_DIFF_6,首,頸
+1,C_DOCM_STR_UTIL_DIFF_7,大差,大差
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_1,{0}億,{0}億
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_2,"{0,3}億","{0,3}億"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_3,"{0,3}兆","{0,3}兆"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_4,"{0,4}億","{0,4}億"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_5,"{0,4}万","{0,4}萬"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_6,   0万,   0萬
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_7,"{0,3}兆","{0,3}兆"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_8,"{0,3}億","{0,3}億"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_9,"{0,4}億","{0,4}億"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_10,"{0,4}万","{0,4}萬"
+1,C_DOCM_STR_UTIL_PRIZE_UNIT_11,   0万,   0萬
+1,C_DOCM_STR_UTIL_TIME_1,MM/dd\nHH：mmまで,MM/dd\nHH：mm為止
+1,C_DOCM_STR_UTIL_TIME_2,{0:D2}時間{1:D2}分,{0:D2}時間{1:D2}分
+1,C_DOCM_STR_UTIL_CATEGORY_1,ポイント,點數
+1,C_DOCM_STR_UTIL_CATEGORY_2,資材,資材
+1,C_DOCM_STR_UTIL_CATEGORY_3,アンロック,UNLOCK
+1,C_DOCM_STR_UTIL_CATEGORY_4,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_5,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_6,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_7,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_8,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_9,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_10,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_11,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_12,デコレーション,裝飾
+1,C_DOCM_STR_UTIL_CATEGORY_13,デコレーション,裝飾
+1,C_DOCM_STR_UTIL_CATEGORY_14,デコレーション,裝飾
+1,C_DOCM_STR_UTIL_CATEGORY_15,デコレーション,裝飾
+1,C_DOCM_STR_UTIL_CATEGORY_16,エサ,飼料
+1,C_DOCM_STR_UTIL_CATEGORY_17,アイテム,道具
+1,C_DOCM_STR_UTIL_CATEGORY_18,お守り,護符
+1,C_DOCM_STR_UTIL_CATEGORY_19,ガチャ馬,扭蛋馬
+1,C_DOCM_STR_UTIL_CATEGORY_20,メンコ,頭套
+1,C_DOCM_STR_UTIL_CATEGORY_21,称号前半,稱號前半
+1,C_DOCM_STR_UTIL_CATEGORY_22,称号後半,稱號後半
+1,C_DOCM_STR_UTIL_CATEGORY_23,チケット,劵
+1,C_DOCM_STR_UTIL_CATEGORY_24,チケット,劵
+1,C_DOCM_STR_UTIL_CATEGORY_25,チケット,劵
+1,C_DOCM_STR_UTIL_CATEGORY_26,施設,設施
+1,C_DOCM_STR_UTIL_CATEGORY_27,施設,設施
+1,C_DOCM_STR_UTIL_BUY_STATUS_1,販売開始まで,銷售開始為止
+1,C_DOCM_STR_UTIL_BUY_STATUS_2,販売終了まで,銷售完結為止
+1,C_DOCM_STR_UTIL_BUY_STATUS_3,販売終了,銷售完結
+1,C_DOCM_STR_UTIL_TOTAL_DAY,7日以上,7日以上
+1,C_DOCM_STR_UTIL_DATE_TIME_1,{0}日{1:D2}時間{2:D2}分{3:D2}秒,{0}日{1:D2}時間{2:D2}分{3:D2}秒
+1,C_DOCM_STR_UTIL_DATE_TIME_2,{0:D2}時間{1:D2}分{2:D2}秒,{0:D2}時間{1:D2}分{2:D2}秒
+1,C_DOCM_STR_UTIL_DATE_TIME_3,{0:D2}分{1:D2}秒,{0:D2}分{1:D2}秒
+1,C_DOCM_STR_UTIL_DATE_TIME_4,{0:D2}秒,{0:D2}秒
+1,C_DOCM_STR_UTIL_DATE_TIME_5,{0}日{1:D2}時間{2:D2}分,{0}日{1:D2}時間{2:D2}分
+1,C_DOCM_STR_UTIL_DATE_TIME_6,{0:D2}時間{1:D2}分,{0:D2}時間{1:D2}分
+1,C_DOCM_STR_UTIL_DATE_TIME_7,{0:D2}分,{0:D2}分
+1,C_DOCM_STR_UTIL_SUNDAY,日,日
+1,C_DOCM_STR_UTIL_MONDAY,月,一
+1,C_DOCM_STR_UTIL_TUESDAY,火,二
+1,C_DOCM_STR_UTIL_WEDNESDAY,水,三
+1,C_DOCM_STR_UTIL_THURSDAY,木,四
+1,C_DOCM_STR_UTIL_FRIDAY,金,五
+1,C_DOCM_STR_UTIL_SATURDAY,土,六
+1,C_DOCM_STR_UTIL_WIN,{0}勝,{0}勝
+1,C_DOCM_STR_UTIL_HEAD,{0}頭,{0}頭
+1,C_DOCM_STR_UTIL_SEX_1,牡馬,雄馬
+1,C_DOCM_STR_UTIL_SEX_2,牝馬,雌馬
+1,C_DOCM_STR_UTIL_SEX_3,せん馬,閹馬
+1,C_DOCM_STR_UTIL_SEX_DEFAULT_2,牝馬,雌馬
+1,C_DOCM_STR_UTIL_RACE_CATEGORY_1,フレンドレース,好友賽事
+1,C_DOCM_STR_UTIL_RACE_CATEGORY_2,スペシャルレース,特殊賽事
+1,C_DOCM_STR_UTIL_RACE_CATEGORY_3,頂上決定戦,頂上決定戰
+1,C_DOCM_STR_UTIL_RACE_CATEGORY_4,イベント限定レース,活動限定賽事
+1,C_DOCM_STR_UTIL_WIN_MSG,優勝,優勝
+1,C_DOCM_STR_UTIL_RANK,{0}着,{0}位
+1,C_OBJECT_UTIL_ITEM_RELAINCE_RETURN_1,最大,最大
+1,C_OBJECT_UTIL_ITEM_RELAINCE_RETURN_2,信頼度回復 ,信頼度回復
+1,C_COMMON_DIALOG_CANCEL_1,キャンセル,中止
+1,C_COMMON_DIALOG_CANCEL_2,キャンセル,中止
+1,C_COMMON_DIALOG_CANCEL_3,キャンセル,中止
+1,C_COMMON_DIALOG_TWITTER_1,Twitter連動機能についてのご注意,關於Twitter連動機能
+1,C_COMMON_DIALOG_TWITTER_2,・この連動機能を利用すると、あなたの「Twitterアイコン」が\nこのアプリのユーザーに公開されます。\n本アプリにより他人に共有している情報と、上記３情報を\n組み合わせることで、あなた個人を特定することが可能と\nなる場合がありますので、ご注意ください。\n\n・公序良俗に反する画像を「Twitterアイコン」に設定した状態で\n連動機能を利用しないでください。,"・要使用此連動機能,閣下的「Twitter圖像」\n此APP的用戶公開。\n由本APP與他人共有的情報及、上記３種情報"
+1,C_ITEM_GET_DIALOG_1,「{0}」\nを入手しました。,「{0}」\n得到。
+1,C_ITEM_GET_DIALOG_2,「{0}」\nを入手しました。,「{0}」\n得到。
+1,C_ITEM_GET_DIALOG_3,「{0}」\nを入手しました。,「{0}」\n得到。
+1,C_ITEM_GET_DIALOG_4,\n\nプレゼントボックスで\nお受け取りください。,\n\n請於禮品盒收取。
+1,C_WARNING_DISPLAY_MSG_1,不明のエラーです。,不明的錯誤。
+1,C_WARNING_DISPLAY_MSG_2,DBのエラーです。,DB錯誤。
+1,C_WARNING_DISPLAY_MSG_3,データが見つかりませんでした。,找不到數據。
+1,C_WARNING_DISPLAY_MSG_4,データが足りませんでした。,數據不足。
+1,C_WARNING_DISPLAY_MSG_5,データが不正です。,數據不正確。
+1,C_WARNING_DISPLAY_MSG_6,データが重複しています。,數據有重複。
+1,C_WARNING_DISPLAY_MSG_7,データが処理が失敗しました。,數據處理失敗。
+1,C_WARNING_DISPLAY_MSG_8,バージョンが違います。,版本不同。
+1,C_WARNING_DISPLAY_MSG_9,致命的なエラーです。,致命的錯誤。
+1,C_WARNING_DISPLAY_MSG_10,処理が生成できません。,無法生成處理。
+1,C_WARNING_DISPLAY_MSG_11,不正な名前です。,不正確的名稱。
+1,C_WARNING_DISPLAY_MSG_12,建設中ではありません。,非建設中。
+1,C_WARNING_DISPLAY_MSG_13,すでにかんせいしています。,已完成。
+1,C_WARNING_DISPLAY_MSG_14,まだ建設されていません。,尚未建設。
+1,C_WARNING_DISPLAY_MSG_15,まだ回復していません。,尚未回復。
+1,C_WARNING_DISPLAY_MSG_16,持ち物が足りません。,所持物品不足。
+1,C_WARNING_DISPLAY_MSG_17,資材が足りませ。,資材不足。
+1,C_WARNING_DISPLAY_MSG_18,DPが足りません。,DP不足。
+1,C_WARNING_DISPLAY_MSG_19,CPが足りません。,CP不足。
+1,C_WARNING_DISPLAY_MSG_20,調教が必要です。,必需要訓練。
+1,C_WARNING_DISPLAY_MSG_21,レースに出場しましょう。,出場賽事。
+1,C_WARNING_DISPLAY_MSG_22,不明なエラーです。,不明的錯誤。
+1,C_WARNING_DISPLAY_MSG_23,処理を無視しました。,已無視處理。
+1,C_SCENE_BOOT_NAME_1,瀬賀太郎,瀬賀太郎
+1,C_SCENE_BOOT_REGEX_1,運営[0-9][0-9],營運[0-9][0-9]
+1,C_SCENE_BOOT_REGEX_2,スタッフ[0-9][0-9],工作人員[0-9][0-9]
+1,C_BOOTLOAD_ERR_MSG_1,データが破損しています。\nゲームを終了します。,數據破損。\n遊戲終止。
+1,C_BOOTLOAD_ERR_MSG_2,ゲームデータが見つかりませんでした。\nゲームを終了します。,找不到遊戲數據。\n遊戲終止。
+1,C_BOOTLOAD_INIT_MSG_1,ゲームデータの初期化中,遊戲數據初期化中
+1,C_BOOT_TITLE_BUSY_ERROR_1,サーバーが混雑しています。\nしばらくお待ちください。\n残り{0}秒…,伺服器繁忙中。\n請稍候。\n 剩餘{0}秒
+1,C_BOOT_NEW_1,利用規約,使用條款
+1,C_BOOT_REISSUE_PROMPT_1,メールアドレスが入力されていません。,尚未輸入Email。
+1,C_BOOT_REISSUE_PROMPT_2,登録されたオーナー名とメールアドレスが\n一致しませんでした。,已登錄的用戶名及Email\n不一致。
+1,C_MAIN_MENU_CAMERA_EXIT_PROMPT_1,アプリケーションを終了します。\nよろしいですか？,終止程式。\n可以嗎？
+1,C_MAIN_MENU_CAMERA_OK,OK,OK
+1,C_MAIN_MENU_CAMERA_CANCEL,キャンセル,中止
+1,C_MAIN_MENU_QUEST_CLEAR_1,{0}クリア！,{0}達成！
+1,C_TRAINING_RESULT_1,完璧,完美
+1,C_TRAINING_RESULT_2,大成功,大成功
+1,C_TRAINING_RESULT_3,成功,成功
+1,C_TRAINING_RESULT_4,成功,成功
+1,C_TRAINING_SELECT_PERFECT_MSG_1,ガチャ馬　{0}頭　配備！完璧率アップ中！,扭蛋馬　{0}匹　配備！完美率上升中！
+1,C_TRAINING_SELECT_PERFECT_MSG_2,『調教強化』でガチャ馬を配備し、完璧率をアップしよう！,以『訓練強化』來配備扭蛋馬、令完美率上升吧！
+1,C_TRAINING_SELECT_PERFECT_MSG_3,完璧率低下まで {0:D2}:{1:D2}:{2:D2},完美率低下為止{0:D2}:{1:D2}:{2:D2}
+1,C_OWNER_RANK_BONUS_NEXT_DATE_1,次回集計日: {0}年{1:D2}月{2:D2}日(日) 04:00頃,下回計算日: 1年1月1日(日) 約04:00
+1,C_OWNER_RANK_BONUS_MSG_1,オーナー格ボーナスは毎週日曜 04:00頃に付与されます,用戶BONUS於毎週日 約04:00贈送
+1,C_SEQ_TWITTER_RESULT,送ったふり。\nOK：送信成功\nキャンセル：送信失敗,裝作已送。\nOK：成功送信。\n中止：送信失敗
+1,C_SEQ_TWITTER_ERROR_MSG,Twitterに送信できませんでした。,不能送信至Twitter。
+1,C_FEED_SCENE_COMMENT,おしまい,完
+1,C_MAP_FIELD_BTN_PREV,戻,回去
+1,C_MAP_FIELD_BTN_NEXT,進,前進
+1,C_MAP_FIELD_MAP_TXT_1,ダメ: ,不行:
+1,C_MAP_FIELD_MAP_TXT_2,ダゾ,(chi_blank)
+1,C_MAP_MNG_SER_ERR,＋＋　サーバーエラー　＋＋,＋＋　伺服器錯誤　＋＋
+1,C_MAP_UNIT_FUKIDASHI_MSG,初回無料\n初回信頼度MAX,初回免費\n初回信頼度MAX
+1,C_MAP_UNIT_REPLACE_MSG_1,ダメ: ,不行:
+1,C_MAP_UNIT_REPLACE_MSG_2,ダゾ,(chi_blank)
+1,C_MAP_UNIT_TRAINING_BREED_1,育成今すぐ終わる,育成現在立即終了
+1,C_MAP_UNIT_TRAINING_BREED_2,育成キャンセル,育成中止
+1,C_MAP_UNIT_TRAINING_BREED_3,育成完了,育成完了
+1,C_MAP_UNIT_TRAINING_BREED_4,育成完了,育成完了
+1,C_MAP_UNIT_TRAINING_BREED_5,育成中 あと{0:D2}:{1:D2}:{2:D2},育成中 尚剩{0:D2}:{1:D2}:{2:D2}
+1,C_MAP_UNIT_TRAINING_FEED,エサやり,餵飼料
+1,C_MAP_UNIT_TRAINING_REFLECT,反省,反省
+1,C_MAP_UNIT_TRAINING_BATTLE_WIN,"{0,2}戦{1,2}勝","{0,2}戰{1,2}勝"
+1,C_MAP_UNIT_TRAINING_HORSE_SEX_1,牡 ,雄
+1,C_MAP_UNIT_TRAINING_HORSE_SEX_2,牝 ,雌
+1,C_MAP_UNIT_TRAINING_TURF,芝,草地
+1,C_MAP_UNIT_TRAINING_DIRT,ダ,泥地
+1,C_MAP_UNIT_TRAINING_BATTLE,戦  ,戰
+1,C_MAP_UNIT_TRAINING_WIN,勝,勝
+1,C_MAP_UNIT_TRAINING_HORSE_EARNING,0万,0萬
+1,C_MAP_UNIT_TRAINING_START_SPEED,"ス:{0, 3}     スピ:{1, 3}"," 出閘:{0, 3}     出閘:{1, 3}"
+1,C_MAP_UNIT_TRAINING_CORNER_STAMINA,"コ:{0, 3}     スタ:{1, 3}","轉彎:{0, 3}     轉彎:{1, 3}"
+1,C_MAP_UNIT_TRAINING_BOX_SHARPNESS,"群:{0, 3}     切れ:{1, 3}",(chi_blank)
+1,C_MAP_UNIT_TRAINING_COMPE_GUT,"競:{0, 3}     根性:{1, 3}","競逐:{0, 3}     勇氣:{1, 3}"
+1,C_MAP_UNIT_TRAINING_TENAC,"粘:{0, 3}","韌性:{0, 3}"
+1,C_MAP_UNIT_TRAINING_AGI,"瞬:{0, 3}","爆炸力:{0, 3}"
+1,C_MAP_UNIT_TRAINING_SUM,"表合計:{0, 3} 裏合計:{1, 3}","表面合計:{0, 3} 裏面合計:{1, 3}"
+1,C_MAP_UNIT_TRAINING_BASE_SUM,"           ベース合計:{0, 3}",步調合計
+1,C_MAP_UNIT_TRAINING_GROWTH,成長\n,成長\n
+1,C_MAP_UNIT_TRAINING_START,"ス:{0, 2}","出閘:{0, 2}"
+1,C_MAP_UNIT_TRAINING_CORNER,"コ:{0, 2}","轉彎:{0, 2}"
+1,C_MAP_UNIT_TRAINING_BOX,"群:{0, 2}","突破馬群:{0, 2}"
+1,C_MAP_UNIT_TRAINING_COMPE,"競:{0, 2}","競逐:{0, 2}"
+1,C_MAP_UNIT_TRAINING_TENAC_2,"粘:{0, 2}","韌性:{0, 2}"
+1,C_MAP_UNIT_TRAINING_AGI_2,"瞬:{0, 2}","爆炸力:{0, 2}"
+1,C_MAP_UNIT_TRAINING_MSG_1,重馬場適正\n,重馬場適正\n
+1,C_MAP_UNIT_TRAINING_HORSE_APTITUDE_1,"芝良:{0, 3}  ダ良:{1,3}, mHorseData.mCondAptitudeTurf[0], mHorseData.mCondAptitudeDirt[0]) + ""\n""","草地良好:{0, 3}  泥地良好:{1,3}, mHorseData.mCondAptitudeTurf[0], mHorseData.mCondAptitudeDirt[0]) + ""\n"""
+1,C_MAP_UNIT_TRAINING_HORSE_APTITUDE_2,"芝稍:{0, 3}  ダ稍:{1,3}, mHorseData.mCondAptitudeTurf[1], mHorseData.mCondAptitudeDirt[1]) + ""\n""","草地稍重:{0, 3}  泥地稍重:{1,3}, mHorseData.mCondAptitudeTurf[1], mHorseData.mCondAptitudeDirt[1]) + ""\n"""
+1,C_MAP_UNIT_TRAINING_HORSE_APTITUDE_3,"芝重:{0, 3}  ダ重:{1,3}, mHorseData.mCondAptitudeTurf[2], mHorseData.mCondAptitudeDirt[2]) + ""\n""","草地重:{0, 3}  泥地重:{1,3}, mHorseData.mCondAptitudeTurf[2], mHorseData.mCondAptitudeDirt[2]) + ""\n"""
+1,C_MAP_UNIT_TRAINING_HORSE_APTITUDE_4,"芝不:{0, 3}  ダ不:{1,3}, mHorseData.mCondAptitudeTurf[3], mHorseData.mCondAptitudeDirt[3]) + ""\n""","草地不良:{0, 3}  泥地不良:{1,3}, mHorseData.mCondAptitudeTurf[3], mHorseData.mCondAptitudeDirt[3]) + ""\n"""
+1,C_MAP_UNIT_TRAINING_MSG_2,爆発\n,"爆發:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_1,"スピ:{0, 2}","速度:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_2,"スタ:{0, 2}","體力:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_3,"切れ:{0, 2}","切:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_4,"根性:{0, 2}","勇氣:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_5,その他\n,其它\n
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_6,"利足:{0, 2}","慣用腳:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_7,"性格:{0, 2}","性格:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_8,"早晩:{0, 2}","早晩:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_9,"遺伝:{0, 2}","遺傳:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_MUTATION_10,"食好:{0, 2}","喜愛食物:{0, 2}"
+1,C_MAP_UNIT_TRAINING_HORSE_SHORT_ABILITY_1,ス,出閘
+1,C_MAP_UNIT_TRAINING_HORSE_SHORT_ABILITY_2,コ,轉彎
+1,C_MAP_UNIT_TRAINING_HORSE_SHORT_ABILITY_3,群,突破馬群
+1,C_MAP_UNIT_TRAINING_HORSE_SHORT_ABILITY_4,競,競逐
+1,C_MAP_UNIT_TRAINING_HORSE_SHORT_ABILITY_5,粘,韌性
+1,C_MAP_UNIT_TRAINING_HORSE_SHORT_ABILITY_6,瞬,爆炸力
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_1,　　プール,　　泳池
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_2,　　　芝単,　　　草地單跑
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_3,　ダート単,　泥地單跑
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_4,　ウッド単,　木單跑
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_5,　　坂路単,　　坂路單跑
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_6,　　芝併せ,　　草地合併
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_7,ダート併せ,泥地合併
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_8,ウッド併せ,木合併
+1,C_MAP_UNIT_TRAINING_FACILITY_TYPE_9,　坂路併せ,　坂路合併
+1,C_MAP_UNIT_TRAINING_MSG_3,調教\n,訓練\n
+1,C_MASS_PANEL_MSS_1,日本語でおｋ,可用日本語
+1,C_BREEDING_NAME_ENTRY_1,仔馬誕生！！,馬仔出生！！
+1,C_BREEDING_NAME_ENTRY_2,仔馬誕生！！,馬仔出生！！
+1,C_BREEDING_NAME_ENTRY_3,仔馬誕生！！,馬仔出生！！
+1,C_BREED_SELECT_PARENT_NAME,{0}の親馬,{0}的退役馬
+1,C_SEQ_BREED_MSG_1,名無しさんの活躍に期待しましょう,期待無名的活躍吧
+1,C_SCENE_FARM_SELF_BREED_HORSE,"自家親馬 {0,2}/{1,2}","自家退役馬 {0,2}/{1,2}"
+1,C_RACE_PROGRAM_LIST_ENTRY_WIN,優勝,優勝
+1,C_RACE_PROGRAM_LIST_ENTRY_COUNT,着,排名
+1,C_RACE_PROGRAM_LIST_ENTRY_POPULARITY,人気,人氣
+1,C_TICKET_TIMELIMITED,【開催期間】,【開催期間】
+1,C_TICKET_FINISH,終了まで,完結為止
+1,C_TICKET_RACE_TITILE,昇格戦,升級戰
+1,C_TICKET_REWARD, 賞金 ,獎金
+1,C_TICKET_GATCHA, ガチャP ,扭蛋P
+1,C_TUTORIAL_TICKET_ITEM_TEXT_1,トライ,嘗試
+1,C_TUTORIAL_TICKET_ITEM_LOAD,読む,閱讀
+1,C_TIME_BOUNS_EP_MULTIPILER,ＥＰｘ{0}.{1}倍,ＥＰｘ{0}.{1}倍
+1,C_TIME_BOUNS_EP_LEFT,残り{0:D2}:{1:D2},剩餘{0:D2}:{1:D2}
+1,C_ROCKET_START_MNG_ROCTET_START_SUC,ロケットスタート成功,火箭出閘成功
+1,C_ROCKET_START_MNG_ROCTET_START_FAIL,ロケットスタート失敗,火箭出閘失敗
+1,C_ROCKET_START_MNG_CLAP,タタケ,啪
+1,C_HORSE_NAME_COMP_NAME_1,あ,(chi_blank)
+1,C_HORSE_NAME_COMP_NAME_2,い,(chi_blank)
+1,C_NET_INPUT_SYNC_ERORR_1,エラー発生,錯誤發生
+1,C_NET_INPUT_SYNC_ERORR_2,エラー発生,錯誤發生
+1,C_RACE_MODE_CTRL_RANK_UP_COND,昇格条件,升級條件
+1,C_RACE_MODE_CTRL_RANK_STR_1,優勝,優勝
+1,C_RACE_MODE_CTRL_RANK_STR_2,位以上,位以上
+1,C_RACE_MODE_CTRL_TEXT_1,条件クリアでグレード昇格,條件達成以升等級
+1,C_RACE_MODE_CTRL_TEXT_2,ライバル馬出現,競敵馬出現
+1,C_RACE_MODE_CTRL_TEXT_3,ライバルに勝利でボーナス,戰勝競敵以帶走BONUS
+1,C_RACE_MODE_CTRL_TEXT_4,目標タイム,目標時間
+1,C_RACE_MODE_CTRL_TEXT_5,目標タイムクリアでボーナス,目標時間達成可得BONUS
+1,C_RACE_MODE_CTRL_FAVORITE_1,人気,人氣
+1,C_RACE_MODE_CTRL_BATTLE,戦,戰
+1,C_RACE_MODE_CTRL_WIN,勝,勝
+1,C_RACE_MODE_CTRL_TEXT_6,タッチですすむ,接觸前進
+1,C_RACE_MODE_CTRL_TEXT_7,目標タイムクリア! ボーナス確定!!,目標時間達成! BONUS確定!!
+1,C_RACE_MODE_CTRL_TEXT_8,にグレード昇格!!,升級至
+1,C_RACE_MODE_CTRL_TEXT_9,すでにフレンドになっているか、\nフレンド申請中です。,已是好友、\n好友申請中。
+1,C_RACE_MODE_CTRL_PARM_1,逃,放頭
+1,C_RACE_MODE_CTRL_PARM_2,先,居前
+1,C_RACE_MODE_CTRL_PARM_3,差,溜後
+1,C_RACE_MODE_CTRL_PARM_4,追,後上
+1,C_RACE_MODE_CTRL_PARM_5,自,自在
+1,C_RACE_MODE_CTRL_PARM_6,逃,放頭
+1,C_RACE_MODE_CTRL_PARM_7,先,居前
+1,C_RACE_MODE_CTRL_PARM_8,差,溜後
+1,C_RACE_MODE_CTRL_PARM_9,追,後上
+1,C_RACE_MODE_CTRL_PARM_10,自,自在
+1,C_RACE_MODE_CTRL_COMBO_WIN_1,連勝ボーナス,連勝BONUS
+1,C_RACE_MODE_CTRL_COMBO_WIN_2,　連勝数 {0}\n,　連勝數 {0}\n
+1,C_RACE_MODE_CTRL_REMAIN_1,　継続残り{0:D2}:{1:D2}\n,　繼續剩餘{0:D2}:{1:D2}\n
+1,C_RACE_MODE_CTRL_REMAIN_2,　継続残り00:00\n,　繼續剩餘00:00\n
+1,C_RACE_MODE_CTRL_1,　レース経過{0:D2}:{1:D2}\n,　賽事經過{0:D2}:{1:D2}\n
+1,C_RACE_MODE_CTRL_2,タイムボーナス,時間BONUS
+1,C_RACE_MODE_CTRL_3,　ボーナスフラグみたいな {0}\n,　像BONUS記號的 {0}\n
+1,C_RACE_MODE_CTRL_4,　ボーナス発生しなかった回数みたいな {0}\n,　像沒發生BONUS的次數 {0}\n
+1,C_RACE_MODE_CTRL_5,　継続残り{0:D2}:{1:D2}\n,　繼續剩餘{0:D2}:{1:D2}\n
+1,C_RACE_MODE_CTRL_6,　継続残り00:00\n,　繼續剩餘00:00\n
+1,C_RACE_MODE_CTRL_7,　イベント終了まで{0:D2}:{1:D2}:{2:D2}\n,　活動完結為止{0:D2}:{1:D2}:{2:D2}\n
+1,C_RACE_MODE_CTRL_8,  発生確率倍率 {0}\n,發生確率倍率 {0}\n
+1,C_TUTORIAL_BASE_REWARD_1,」を達成しました！\n,」達成！\n
+1,C_TUTORIAL_BASE_REWARD_2,報酬としてアイテム,"作為報酬,得到道具"
+1,C_TUTORIAL_BASE_REWARD_3,を,(助動詞)
+1,C_TUTORIAL_BASE_REWARD_4,個受け取りました。,收取
+1,C_WARM_UP_PANEL_BATTLE,戦,戰
+1,C_WARM_UP_PANEL_WIN,勝,勝
+1,C_WARM_UP_PANEL_POPULARITY,人気,人氣
+1,C_WARM_UP_PANEL_QUESTION_MARK,  ？,  ？
+1,C_WARM_UP_PANEL_QUESTION_MARK_2,？,？
+1,C_WARM_UP_PANEL_MONEY_UNITY,　？億？？？万,　？億？？？萬
+1,C_WARM_UP_PANEL_MONEY_ASSASIN_1,ＳＥＧＡからの刺客,從ＳＥＧＡ來的刺客
+1,C_WARM_UP_PANEL_MONEY_ASSASIN_2,SEGAから送り込まれた刺客の1人。　華麗な騎乗テクニックを武器にプレイヤーの壁となって立ちはだかる。,由SEGA送來的刺客1人。　以其華麗的騎乗技術成為玩家的高牆。
+1,C_WARM_UP_PANEL_MONEY_TURN,回,次
+1,C_SCENE_DUMMY_RACE_BETERAN,ベテラン,老手
+1,C_SCENE_DUMMY_RACE_ASSIST,アシスト,協助
+1,C_SCENE_DUMMY_RACE_DISPLAY,出場する馬を選択してください,請選擇出場的馬
+1,C_SCENE_RACE_SELECT_TEXT_1,適性グレード！,適性等級！
+1,C_SCENE_RACE_SELECT_TEXT_2,戦績に反映されます,反映戰績
+1,C_SCENE_RACE_SELECT_TEXT_3,頂上決定戦,頂上決定戰
+1,C_SCENE_RACE_SELECT_TEXT_4, 昇格戦,升級戰
+1,C_SCENE_RACE_SELECT_TEXT_5, 昇格戦,升級戰
+1,C_SCENE_RACE_SELECT_TEXT_6, 昇格戦,升級戰
+1,C_SCENE_RACE_SELECT_TEXT_7, 昇格戦,升級戰
+1,C_SCENE_RACE_SELECT_TEXT_8, 昇格戦,升級戰
+1,C_SCENE_RACE_SELECT_TEXT_9,平場戦,平場戰
+1,C_SCENE_RACE_SELECT_GRADE_LIST_1,メイクデビュー,MAKE出道
+1,C_SCENE_RACE_SELECT_GRADE_LIST_2,フレンドレース,好友賽事
+1,C_SCENE_RACE_SELECT_GRADE_LIST_3,スペシャルレース,特殊賽事
+1,C_SCENE_RACE_SELECT_GRADE_LIST_4,イベント限定レース,活動限定賽事
+1,C_SCENE_RACE_SELECT_GRADE_LIST_5,操作トライアル,操作教學
+1,C_SCENE_RACE_SELECT_GRADE_LIST_6,信頼度,信頼度
+1,C_SCENE_RACE_SELECT_GRADE_LIST_7,競走馬の脚質,出賽馬的特性
+1,C_SCENE_RACE_SELECT_GRADE_LIST_8,レース展開,賽事展開
+1,C_SCENE_RACE_SELECT_GRADE_LIST_9,引退,退役
+1,C_SCENE_RACE_SELECT_GRADE_LIST_10,生産,配種
+1,C_SCENE_RACE_SELECT_GRADE_LIST_11,馬の能力,馬的能力
+1,C_SCENE_RACE_SELECT_GRADE_LIST_12,レースの基本,賽事的基本
+1,C_SCENE_RACE_SELECT_GRADE_LIST_13,ポテンシャル,潛力
+1,C_SCENE_RACE_SELECT_TEXT_10,ロックされています,被鎖定
+1,C_SCENE_RACE_SELECT_TEXT_11,出場する馬を選択してください,請選擇出場的馬
+1,C_SCENE_RACE_BEFORE_1,残り,剩餘
+1,C_SCENE_RACE_BEFORE_2,全国レコード,全國紀錄
+1,C_SCENE_RACE_BEFORE_3,対戦するゴースト馬を\n探しています,正在尋找對戰的Ghost馬\n
+1,C_SCENE_RACE_BEFORE_4,対戦するゴースト馬が\n見つかりました！,找到對戰的Ghost馬\n！
+1,C_SCENE_RACE_BEFORE_5,ゴースト馬がいない為、\n今回はＣＰＵ馬との対戦になります,因為沒有Ghost馬、\n今次會是跟ＣＰＵ馬對戰
+1,C_SCENE_RACE_BEFORE_6,エラーが発生しました。ログインが無効になりました。トップ画面に戻ります,發生錯誤。登入無効。回到主目錄
+1,C_MATCHING_SEQUENCE_1,対戦部屋を作成,製作對戰房間
+1,C_MATCHING_SEQUENCE_2,トレセンに戻る,回到馬場
+1,C_MATCHING_SEQUENCE_3,対戦部屋を作成,製作對戰房間
+1,C_MATCHING_SEQUENCE_4,トレセンに戻る,回到馬場
+1,C_MATCHING_SEQUENCE_5,対戦部屋を作成,製作對戰房間
+1,C_MATCHING_SEQUENCE_6,部屋情報を更新,更新房間情報
+1,C_MATCHING_SEQUENCE_7,トレセンに戻る,回到馬場
+1,C_MATCHING_SEQUENCE_8,牡 ,雄馬
+1,C_MATCHING_SEQUENCE_9,牝 ,雌馬
+1,C_MATCHING_SEQUENCE_10,戦,戰
+1,C_MATCHING_SEQUENCE_11,勝,勝
+1,C_MATCHING_SEQUENCE_12,芝,草地
+1,C_MATCHING_SEQUENCE_13,ダ,泥地
+1,C_MATCHING_SEQUENCE_14,通信状態がよくないため、\n ,通信狀態不良、\n 
+1,C_MATCHING_SEQUENCE_15,とは対戦できません,不能對戰
+1,C_MATCHING_SEQUENCE_16,レースへ進む,往賽事前進
+1,C_MATCHING_SEQUENCE_17,部屋を閉じる,關閉房間
+1,C_MATCHING_SEQUENCE_18,通信テスト中です,通信測試中
+1,C_MATCHING_SEQUENCE_19,ゲームサーバに接続しています,遊戲伺服器連接中
+1,C_MATCHING_SEQUENCE_20,ホストを探しています,搜尋主機中
+1,C_MATCHING_SEQUENCE_21,ホストへ接続中です,連接主機中
+1,C_MATCHING_SEQUENCE_22,接続失敗\n,連接失敗
+1,C_MATCHING_SEQUENCE_23,参加待機中です,参加待機中
+1,C_MATCHING_SEQUENCE_24,参加者を待っています,等待参加者中
+1,C_MATCHING_SEQUENCE_25,データ取得中です,數據取得中
+1,C_MATCHING_SEQUENCE_26,準備完了しました。,準備完了。
+1,C_MATCHING_SEQUENCE_27,P2P マッチ,P2P MATCH
+1,C_MATCHING_SEQUENCE_28,データを同期しています,數據同步中
+1,C_MATCHING_SEQUENCE_29,エラーが発生しました。リトライしています,發生錯誤。重試中
+1,C_LOCAL_MATCHING_1,エラー：ローカル対戦にはWifi環境が必要です。,錯誤：本地對戰需要有Wifi環境。
+1,C_LOCAL_MATCHING_2,この部屋の参加プレイヤー：\n,此房間的参加玩家：\n
+1,C_LOCAL_MATCHING_3,ローカル対戦の部屋を作成,製作本地對戰的房間
+1,C_LOCAL_MATCHING_4,トレセンに戻る,回到馬場
+1,C_LOCAL_MATCHING_5,"と対戦する\n現在のプレイヤー数( +hi.userNum + ""/"" + hi.capacity + "")""","與其對戰\n現在玩家數( +hi.userNum + ""/"" + hi.capacity + "")"""
+1,C_LOCAL_MATCHING_6,トレセンに戻る,回到馬場
+1,C_LOCAL_MATCHING_7,レースへ進む,前往賽事
+1,C_LOCAL_MATCHING_8,部屋作成に戻る,回到馬場
+1,C_LOCAL_MATCHING_9,ゲームサーバに接続しています,遊戲伺服器連接中
+1,C_LOCAL_MATCHING_10,部屋主です。こんにちは。,房間主人。你好。
+1,C_LOCAL_MATCHING_11,データ取得中です,數據取得中
+1,C_LOCAL_MATCHING_12,準備完了しました。,準備完了。
+1,C_LOCAL_MATCHING_13,P2P マッチ,P2P MATCH
+1,C_LOCAL_MATCHING_14,データを同期しています,數據同步中
+1,C_LOCAL_MATCHING_15,ホストへ接続中です,搜尋主機中
+1,C_LOCAL_MATCHING_16,接続中できました\n,連接主機中\n
+1,C_LOCAL_MATCHING_17,接続失敗\n,連接失敗
+1,C_LOCAL_MATCHING_18,よろしくお願いします。,多多指教。
+1,C_LOCAL_MATCHING_19,参加待機中です,参加待機中
+1,C_LOCAL_MATCHING_20,データ取得中です,數據取得中
+1,C_LOCAL_MATCHING_21,エラーが発生しました。,發生錯誤。
+1,C_TICKET_DATA_MATCH, 賞金 ,獎金
+1,C_TICKET_DATA_MATCH_2, ガチャP ,扭蛋P
+1,C_WINNING_STREAK_1,{0}連勝！,{0}連勝！
+1,C_WINNING_STREAK_2,ライバル先着で「EP+{0}」,競敵先衝線「EP+{0}」
+1,C_WINNING_STREAK_3,残り{0:D2}:{1:D2},剩餘{0:D2}:{1:D2}
+1,C_GATCHA_GET_MULTI_1,以下のエサを入手しました,得到以下的飼料
+1,C_GATCHA_GET_MULTI_2,以下のガチャ馬を入手しました,得到以下的扭蛋馬
+1,C_GATCHA_GET_MULTI_3,以下のアイテムを入手しました,得到以下的道具
+1,C_ITEM_1,以上,以上
+1,C_ITEM_2,おまけ付きCP,附錄CP
+1,C_ITEM_3,CP(おまけ),CP(附錄)
+1,C_ITEM_SP_1,おまけ付きCP,附錄CP
+1,C_ITEM_SP_2,　　制限なし,　　無限制
+1,C_ITEM_SP_3,セット,SET
+1,C_ITEM_SP_4,購入済み,已購買
+1,C_ITEM_SP_5,購入済み,已購買
+1,C_ITEM_SP_6,セット,SET
+1,C_ITEM_SP_7,売り切れ,賣光
+1,C_ITEM_SP_8,売り切れ,賣光
+1,C_ITEM_SP_9,販売終了,銷售完結
+1,C_ITEM_SP_10, 販売予告,銷售予告
+1,C_ITEM_SP_11,　　制限なし,　　無限制
+1,C_ITEM_SP_12,セット,SET
+1,C_ITEM_SP_13,お一人様残り,每一人剩餘
+1,C_LOTTERY_1,点,點
+1,C_LOTTERY_2,{0}：{1}枚,{0}：{1}枚
+1,C_LOTTERY_3,お一人様{0}回限り,每一人限{0}回
+1,C_LOTTERY_4,購入済み,已購買
+1,C_LOTTERY_LIST_1,おまけはコレ！！,附錄是這個！！
+1,C_LOTTERY_LIST_2,以下の中から１種類が出現します。,會出現以下其中一款。
+1,C_SCENE_SHOP_1,オススメ,推薦
+1,C_SCENE_SHOP_2,エサ購入,飼料購買
+1,C_SCENE_SHOP_3,建物購入,建物購買
+1,C_SCENE_SHOP_4,アイテム購入,道具購買
+1,C_SCENE_SHOP_5,ＣＰ購入,ＣＰ購買
+1,C_SCENE_SHOP_6,ＣＰ購入,ＣＰ購買
+1,C_SCENE_SHOP_7,馬ガチャ,馬扭蛋
+1,C_SCENE_SHOP_8,エサガチャ,飼料扭蛋
+1,C_SCENE_SHOP_9,その他,其它
+1,C_SEQ_GATCHA_1,{0}が足りません,{0}不足
+1,C_SEQ_SHOPPING_1,{0}が足りません,{0}不足
+1,C_SEQ_SHOPPING_2,申し訳ありませんが、売り切れました。,"非常抱歉,已賣光"
+1,C_SEQ_SHOPPING_3,この商品は購入済みです。,已購入此商品
+1,C_DEPOT_ITEM_1,使用,使用
+1,C_DEPOT_ITEM_2,売却,賣
+1,C_DEPOT_ITEM_3,選択,選擇
+1,C_DEPOT_ITEM_4,売却済,已賣
+1,C_SELL_DIALOG_1,{0}（{1}DP）を売却します。,賣{0}（{1}DP）
+1,C_SELL_DIALOG_2,称号を選択してください,請選擇稱號
+1,C_ITEM_USE_1,{0}を使用しました。,{0}已使用
+1,C_SCENE_ITEM_1,エサ,飼料
+1,C_SCENE_ITEM_2,ガチャ馬,扭蛋馬
+1,C_SCENE_ITEM_3,ガチャ親馬,扭蛋拍跳馬
+1,C_SCENE_ITEM_4,建物,建物
+1,C_SCENE_ITEM_5,アイテム,道具
+1,C_SCENE_ITEM_6,メンコ,頭套
+1,C_SCENE_ITEM_7,称号プレート,稱號牌
+1,C_SCENE_ITEM_8,所有しているエサを確認しよう！,確認擁有的飼料！
+1,C_SCENE_ITEM_9,所有しているガチャ馬を確認しよう！,確認擁有的扭蛋馬！
+1,C_SCENE_ITEM_10,所有しているガチャ親馬を確認しよう！,確認擁有的扭蛋退役馬！
+1,C_SCENE_ITEM_11,建物を建てよう！,建建築物吧！
+1,C_SCENE_ITEM_12,所有しているアイテムを確認しよう！,確認擁有的道具！
+1,C_SCENE_ITEM_13,手に入れたメンコを確認しよう！,確認得到的頭套！
+1,C_SCENE_ITEM_14,手に入れた称号を確認しよう！,確認得到的稱號！
+1,C_SCENE_ITEM_15,売地がありません。,沒有賣地。
+1,C_SCENE_INVITE_1,{0}人,{0}人
+1,C_PROFILE_MAIL_1,登録,登錄
+1,C_PROFILE_MAIL_2,解除,解除
+1,C_PROFILE_MAIL_3,入力されたメールアドレスは\nすでに登録されています。,輸入的 Email
+1,C_PROFILE_MAIL_4,aaあ9うい@あ.com,abc@ABC.com
+1,C_PROFILE_PRESENT_CARD_1,あと{0}人招待,尚剩{0}人招待
+1,C_PROFILE_TWITTER_TEST_1,\n\nTwitterページの取得に失敗しました。,\n\n無法取得Twitter Page。
+1,C_FRIEND_REQUEST_BE_FRIEND_1,すでにフレンドになっています。,已經是好友。
+1,C_FRIEND_REQUEST_BE_FRIEND_2,フレンド承認お願いします,請承認好友申請
+1,C_FRIEND_REQUEST_BE_FRIEND_3,コメントする,評論
+1,C_SEQ_BRAVO_1,コメント成功,評論成功
+1,C_SEQ_BRAVO_2,「ブラボー！」成功,「打氣！」成功
+1,C_SEQ_BRAVO_3,※ガチャPが上限に達しているため\nこれ以上ガチャPを増やすことができません。,※到達扭蛋P的上限。
+1,C_SEQ_BRAVO_4,コメントで更に10アップ,評論而再上升10
+1,C_SEQ_BRAVO_5,コメントで更に2アップ\n(フレンドなら10アップ！),評論而再上升2\n(好友則上升10！)
+1,C_SEQ_BRAVO_6,一日のコメントの２回目からは、\nガチャPは獲得できません。,同一日的第2次評論、\n無法得到扭蛋P。
+1,C_SEQ_BRAVO_7,ブラボー！,打氣！
+1,C_RANKING_VIEW_1,リプレイデータの取得に失敗しました。,無法取得重播數據。
+1,C_RANKING_VIEW_2,ユーザデータの取得に失敗しました。,無法取得玩家數據。
+1,C_FRIEND_LIST_ENTRY_1,今日,今日
+1,C_FRIEND_LIST_ENTRY_2,"{0, 2}日前","{0, 2}日前"
+1,C_FRIEND_LIST_ENTRY_3,30日以上前,30日以上前
+1,C_FRIEND_LIST_ENTRY_4,フレンド未申請,好友未申請
+1,C_FRIEND_LIST_ENTRY_5,フレンド申請中,好友申請中
+1,C_FRIEND_LIST_ENTRY_6,フレンド申請中,好友申請中
+1,C_FRIEND_LIST_ENTRY_7,申請,申請
+1,C_INFO_LAST_RACE_RESULT_ENTRY,着,排位
+1,C_INFO_LAST_RACE_RESULT_ENTRY_2,人気,人氣
+1,C_INFO_TRAIN_ITEM_HORSE_1,効果 小,效果 小
+1,C_INFO_TRAIN_ITEM_HORSE_2,効果 中,效果 中
+1,C_INFO_TRAIN_ITEM_HORSE_3,効果 大,效果 大
+1,C_INFO_TRAIN_ITEM_HORSE_4,効果 特大,效果 特大
+1,C_INFO_TRAIN_ITEM_HORSE_5,効果 超特大,效果 超特大
+1,C_INFO_TRAIN_ITEM_HORSE_6,配備中,配備中
+1,C_INFO_TRAIN_ITEM_HORSE_7,候補,候補
+1,C_MAIL_LIST_ENTRY_1,承認,承認
+1,C_MAIL_LIST_ENTRY_2,詳細,詳細
+1,C_MAIL_LIST_ENTRY_3,詳細,詳細
+1,C_SCENE_INFO_FIREND_1,フレンドレース,好友賽事
+1,C_SCENE_INFO_FIREND_2,スペシャルレース,特殊賽事
+1,C_SCENE_INFO_FIREND_3,頂上決定戦,頂上決定戰
+1,C_SCENE_INFO_FIREND_4,イベント限定レース,活動限定賽事
+1,C_SCENE_INFO_FIREND_5,{0} {1} 結果 {2} {3},{0} {1} 結果 {2} {3}
+1,C_SCENE_INFO_HORSE_1,現役馬,出賽馬
+1,C_SCENE_INFO_TRAIN2,{0}頭,{0}匹
+1,C_SEQ_RETIRE_1,は最後の現役馬です。\nレースへの出走ができなくなりますが、\n本当によろしいですか？,是最後的出賽馬。\n將不能再出賽、\n真的可以嗎？
+1,C_HELP_MAIN_MENU_1,本ゲームの操作やパラメータについて理解しましょう\n（ここでは、ATやDPなどの清算はありません）,理解本遊戲的操作及參數\n（不會於此計算AT和DP）
+1,C_HELP_MAIN_MENU_2,馬能力,馬匹能力
+1,C_HELP_MAIN_MENU_3,各脚質トライ,各特性
+1,C_HELP_TICKET_1,アイコンは一番左が\n正しい位置です。,圖像在最左\n正確位置。
+1,C_QUEST_BASE_1,ネットワークエラー,網絡錯誤
+1,C_QUEST_BASE_2,エラーが発生しました。\nログイン画面に戻ります。,發生錯誤。\n回到登入畫面。
+1,C_QUEST_EVENT_00_1,いべんと,活動
+1,C_QUEST_EVENT_00_2,いべんとやってるよ,進行活動中
+1,C_QUEST_EVENT_00_3,今回のレース１,今回的賽事１
+1,C_QUEST_EVENT_00_4,テンプレ１,模板１
+1,C_QUEST_EVENT_00_5,今回のレース２,今回的賽事２
+1,C_QUEST_EVENT_00_6,テンプレ２,模板２
+1,C_QUEST_EVENT_00_7,ネットワークエラー,網絡錯誤
+1,C_QUEST_EVENT_00_8,エラーが発生しました。\nログイン画面に戻ります。,發生錯誤。\n回到登入畫面。
+1,C_QUEST_NORMAL_1,貰った馬,得到的馬
+1,C_QUEST_NORMAL_106_1,次へ,決定
+1,C_FEED_FOOD_CARD_1,水,水
+1,C_SCENE_FEED_1,通信エラーが発生しました。,通信發生錯誤。
+1,C_RACE_REVIEW_1,うまこ（仮）,零散馬名6
+1,C_HORSE_ABILITY_HELP_1,ここでエサ選択です。,於此選擇飼料。
+1,C_HORSE_BUTTON_UI_2_1,次へ,決定
+1,C_HORSE_BUTTON_UI_2_2,受取まち,等待收取
+1,C_HORSE_BUTTON_UI_2_3,育成中,育成中
+1,C_HORSE_BUTTON_UI_2_4,あと{0:D2}:{1:D2},尚剩{0:D2}:{1:D2}
+1,C_HORSE_BUTTON_UI_2_5,調教まち,等待訓練
+1,C_HORSE_BUTTON_UI_2_6,調教中,訓練中
+1,C_HORSE_BUTTON_UI_2_7,出走まち,等待出賽
+1,C_HORSE_BUTTON_UI_2_8,エサまち,等待飼料
+1,C_HORSE_BUTTON_UI_2_9,反省まち,等待反省
+1,C_HORSE_BUTTON_UI_2_10,代重ね促進を\nキャンセル,代重及促進中心\n
+1,C_HORSE_BUTTON_UI_2_11,（すぐに完了）,立即完成
+1,C_HORSE_BUTTON_UI_2_12,{0}時間{1:D2}分{2:D2}秒,{0}時間{1:D2}分{2:D2}秒
+1,C_HORSE_INFO_POPUP_1,ポテンシャルに切替,切換至潛力
+1,C_HORSE_INFO_POPUP_2,アビリティに切替,切換至能力
+1,C_MAIN_MENU_AT_PROGRESS_1,AT（アクションチケット）数は最大です,AT（Action Ticket）數是最大
+1,C_MAIN_MENU_AT_PROGRESS_2,通信中…,通信中…
+1,C_MAIN_MENU_AT_PROGRESS_3,あと{0:D2}：{1:D2},尚剩{0:D2}：{1:D2}
+1,C_MAIN_MENU_AT_PROGRESS_4,回復まで,回復為止
+1,C_MAIN_MENU_TRAIN_END_POPUP_1,エサやり,餵飼料
+1,C_MAIN_MENU_TRAIN_END_POPUP_2,反省,反省
+1,C_MAIN_MENU_TRAIN_END_POPUP_3,レースお疲れ様でした。,賽事辛苦了。
+1,C_MAIN_MENU_TRAIN_END_POPUP_4,調教お疲れ様でした。,訓練辛苦了。
+1,C_DATA_CNETER_ACHIEVE_ENTRY_1,報酬：【{0}】,報酬：【{0}】
+1,C_DATA_CENTER_MAIN_1,報酬確認,確認報酬
+1,C_DATA_CENTER_TICKET_1,【競馬場】,【賽馬場】
+1,C_DATA_CENTER_TICKET_2,【コース】,【賽道】
+1,C_DATA_CENTER_TICKET_3,【距離】,【距離】
+1,C_PLAY_DATA_BASE_1,(          ランク外),(          Rank外)
+1,C_PLAY_DATA_BASE_2,(            集計中),(            計算中)
+1,C_PLAY_DATA_BASE_3,(                位),(                位)
+1,C_SCENE_BOX_1,{0}\nを受け取ります。,收取
+1,C_SCENE_BOX_2,受取,收取
+1,C_SEQ_OWNER_RANK_UP_1,{0}格({1}),{0}格({1})
+1,C_SEQ_OWNER_RANK_UP_2,ランク外,Rank外
+1,C_SEQ_OWNER_RANK_UP_3,集計中,計算中
+1,C_SEQ_OWNER_RANK_UP_4,位,位
+1,C_CAMPAIGN_STAMP_1,８日間連続ログインで「{0}x{1}」をプレゼント！,"連續8日登入,送「{0}x{1}」作禮品！"
+1,C_CAMPAIGN_STAMP_2,ボーナスは[プレゼントボックス]からお受け取りください！,BONUS請到[禮品盒]收取！
+1,C_CAMPAIGN_STAMP_3,「{0}x{1}」をＧＥＴ！,ＧＥＴ「{0}x{1}」！
+1,C_CAMPAIGN_STAMP_ONE_1,{0}日目,第{0}日
+1,C_SCENE_AUTO_TRAIN_1,(所要時間:{0}時間),(所要時間:{0}時間)
+1,C_SCENE_SPEED_TRAIN_1,レースに出発します！,出發往賽事！
+1,C_BUILD_BETA_1,ダビオナ２,DerbyOwner２
+1,C_BUIL_DERBY_OC_1,ダビオナ,DerbyOwner
+1,C_CREATE_ASSET_BUNDLE_1,ダビオナ,DerbyOwner
+1,C_HORSE_PARAM_1,ふぃーるざらっしゅ,Feel the Rush
+1,C_TASK_BASE_1,ネットワークエラー,網絡錯誤
+1,C_TASK_BASE_2,通信に失敗しました。電波状況の良い場所で再度お試しください。,通信失敗。請於電波状況良好的地方再度嘗試。
+1,C_TASK_BASE_3,リトライ,重試
+1,C_TASK_BASE_4,エラーが発生しました。ログインが無効になりました。トップ画面に戻ります,發生錯誤。登入無効。回到主目錄
+1,C_TASK_BASE_5,サーバエラーが発生しました。ログインが無効になりました。トップ画面に戻ります,伺服器發生錯誤。登入無効。回到主目錄
+1,C_TASK_BASE_6,Derby Owners Club を遊ぶにはインターネットへの接続が必要です。3G回線とWi-Fiをサポートしています。,伺服器混雑中。請稍候再嘗試登入。
+1,C_TASK_BASE_7,バージョンエラーです。アップデートを行ってください。,版本錯誤。請進行更新。
+1,C_TASK_BASE_8,サーバが混雑しています。しばらくたってからもう一度ログインしてください。,伺服器混雑中。請稍候再嘗試登入。
+1,C_TASK_BASE_9,ログインが無効になりました。トップ画面に戻ります,登入無効。回到主目錄
+1,C_TASK_BASE_10,アカウントは無効です。,帳戶無効。
+1,C_TASK_BASE_11,ただいまサーバメンテナンス中です。,現正伺服器維護中。
+1,C_TASK_BASE_12,タイムアウトにより切断しました。トップ画面に戻ります,因連接超時而中斷連線。回到主目錄
+1,C_TASK_BASE_13,この端末ではプレイできません。,不能以此設備遊玩。
+1,C_TASK_BASE_14,iOS端末で作成されたアカウントでログインをやり直してください。,請用以iOS製作的帳戶登入。
+1,C_TASK_BASE_15,Android端末で作成されたアカウントでログインをやり直してください。,請用以Android製作的帳戶登入。
+1,C_IMAGE_TEST_1,写真アルバム,圖集
+1,C_IMAGE_TEST_2,内部ストレージ/ＳＤカード,使用手機儲存圖像
+1,C_IMAGE_TEST_3,({0} x {1}) ピクセル,({0} x {1}) Pixel
