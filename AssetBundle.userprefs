@@ -1,10 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\GitHub\DOC016\unity\Assets\DOCM Assets\S01 Boot\Scene_Boot.cs">
-    <Files>
-      <File FileName="..\..\..\GitHub\DOC016\unity\Assets\DOCM Assets\S01 Boot\Scene_Boot.cs" Line="354" Column="14" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
