@@ -18,6 +18,7 @@ public class NxtomoABTestLoad : MonoBehaviour {
 		if(GUI.Button(new Rect(0,15,150,150), "loadBundle")){
 			StartCoroutine(LoadAB());
 		}
+		GUI.TextArea(new Rect(0,165,150,150), Application.dataPath);
 	}
 
 	IEnumerator LoadAB() {
