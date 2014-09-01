@@ -17,11 +17,57 @@ public class NxtCreateAssetBundles {
 	static void LaunchXMLTest(){
 
 		//save a xml
+		/*XmlDocument doc = new XmlDocument();
+		XmlDeclaration xmldecl;
+		xmldecl = doc.CreateXmlDeclaration("1.0","UTF-8",null);
+*/
+
+		StreamWriter writer; 
+		FileInfo t = new FileInfo(Application.dataPath+"/../AssetBundles/"+ "Test.xml"); 
+		if(!t.Exists) 
+		{ 
+			writer = t.CreateText(); 
+		} 
+		else 
+		{ 
+			t.Delete(); 
+			writer = t.CreateText(); 
+		} 
+		//writer.Write("hihi"); 
 		XmlDocument doc = new XmlDocument();
 		XmlDeclaration xmldecl;
 		xmldecl = doc.CreateXmlDeclaration("1.0","UTF-8",null);
+		XmlElement company = doc.CreateElement("Company");
 
-		doc.Save(Application.dataPath+"/../AssetBundles/test");
+		doc.AppendChild(company);
+		doc.InsertBefore(xmldecl,company);
+
+		//建立子節點
+		XmlElement department = doc.CreateElement("Department");
+		department.SetAttribute("部門名稱", "技術部");//設定屬性
+		department.SetAttribute("部門負責人", "余小章");//設定屬性
+		//加入至company節點底下
+		company.AppendChild(department); 
+		
+		XmlElement members = doc.CreateElement("Members");//建立節點
+		//加入至department節點底下
+		department.AppendChild(members); 
+		
+		XmlElement info = doc.CreateElement("Information");
+		info.SetAttribute("名字", "余小章");
+		info.SetAttribute("電話", "0806449");
+		//加入至members節點底下
+		members.AppendChild(info);
+		info = doc.CreateElement("Information");
+		info.SetAttribute("名字", "王大明");
+		info.SetAttribute("電話", "080644978");
+		//加入至members節點底下
+		members.AppendChild(info);
+
+		writer.Write(doc.InnerXml);
+
+		writer.Close(); 
+		Debug.Log("File written."); 
 	}
 
 	[MenuItem("Assets/Nxtomo build Resources bundle")]
