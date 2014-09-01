@@ -13,9 +13,7 @@ public class NxtCreateAssetBundles {
 
 	[MenuItem("Assets/Nxtomo build Resources bundle")]
 	static void ExportResourcesBundle () {
-
 		Exporting();
-
 	}
 
 	static void Exporting () {
@@ -29,19 +27,49 @@ public class NxtCreateAssetBundles {
 		
 		List<UnityEngine.Object> assets = new List<UnityEngine.Object>();
 		List<string> names = new List<string>();
-		getAssets(assets, names);
+		List<string> files = new List<string>();
+		getAssets(assets, names, files);
 
-		for(int i = 0; i < assets.Count; ++i) {
-			Debug.Log(string.Format("{0} : {1}", names[i], assets[i].name));
+		//for(int i = 0; i < assets.Count; ++i) {
+			//Debug.Log(string.Format("{0} : {1}", names[i], assets[i].name));
+		//}
+
+		long SizeCounter = 0;
+		List<string> tempNames = new List<string>();
+		List<UnityEngine.Object> tempAssets = new List<UnityEngine.Object>();
+		int batch = 0;
+		for(int index = 0; index < files.Count; index++)
+		{
+			FileInfo fileInfo = new FileInfo(files[index]);
+			Debug.Log("the \"" + files[index] + " \"file size is: " + fileInfo.Length);
+
+			tempAssets.Add(assets[index]);
+			tempNames.Add(names[index]);
+			SizeCounter += fileInfo.Length;
+
+
+			if(SizeCounter >= 5000000){ //this is 5MB
+				//give a package name
+				string name = "docm_Resources"+batch.ToString();
+				//edit xml
+				//Do packing
+				BuildPipeline.BuildAssetBundleExplicitAssetNames(tempAssets.ToArray(), tempNames.ToArray(), "AssetBundles/" + name, BuildAssetBundleOptions.CollectDependencies|BuildAssetBundleOptions.UncompressedAssetBundle, target);
+				Debug.Log("called");
+				batch++;
+			//reset totSize, clear temp assets and names;
+			SizeCounter = 0;
+			tempAssets.Clear();
+			tempNames.Clear();
+				Debug.Log("called2*********************************************");
+			}
 		}
 
+		Debug.Log("totSize is: " + SizeCounter.ToString());
 		
-		
-		
-		BuildPipeline.BuildAssetBundleExplicitAssetNames(assets.ToArray(), names.ToArray(), "AssetBundles/docm_Resources", BuildAssetBundleOptions.CollectDependencies|BuildAssetBundleOptions.UncompressedAssetBundle, target);
+		//BuildPipeline.BuildAssetBundleExplicitAssetNames(assets.ToArray(), names.ToArray(), "AssetBundles/docm_Resources", BuildAssetBundleOptions.CollectDependencies|BuildAssetBundleOptions.UncompressedAssetBundle, target);
 	}
 
-	public static void getAssets(List<UnityEngine.Object> assets, List<string> names)
+	public static void getAssets(List<UnityEngine.Object> assets, List<string> names, List<string> files)
 	{
 		DirectoryInfo dinfo = new DirectoryInfo(Application.dataPath);
 		foreach(DirectoryInfo child in dinfo.GetDirectories()) {
@@ -51,14 +79,14 @@ public class NxtCreateAssetBundles {
 			
 			if(child.Name == "Resources") {
 				Uri newRoot = new Uri(child.FullName);
-				getAssetsPath(newRoot, child, assets, names);
+				getAssetsPath(newRoot, child, assets, names, files);
 			} else {
-				getAssetsPath(null, child, assets, names);
+				getAssetsPath(null, child, assets, names, files);
 			}
 		}
 	}
 
-	public static void getAssetsPath(Uri root, DirectoryInfo dinfo, List<UnityEngine.Object> assets, List<string> names)
+	public static void getAssetsPath(Uri root, DirectoryInfo dinfo, List<UnityEngine.Object> assets, List<string> names, List<string> files)
 	{
 		Uri dataRoot = new Uri(Application.dataPath);
 		
@@ -78,6 +106,8 @@ public class NxtCreateAssetBundles {
 				string name = dataRoot.MakeRelativeUri(uri).ToString();
 				
 				assets.Add(AssetDatabase.LoadAssetAtPath(name, typeof(UnityEngine.Object)));
+				files.Add(file.FullName.ToString());
+				Debug.Log("files: " + file.FullName.ToString());
 				
 				name = root.MakeRelativeUri(uri).ToString();
 				if(extLength > 0) {
@@ -89,6 +119,8 @@ public class NxtCreateAssetBundles {
 				} else {
 					names.Add(name);
 				}
+
+
 			}
 		}
 		
@@ -99,9 +131,9 @@ public class NxtCreateAssetBundles {
 			
 			if(child.Name == "Resources") {
 				Uri newRoot = new Uri(child.FullName);
-				getAssetsPath(newRoot, child, assets, names);
+				getAssetsPath(newRoot, child, assets, names,files);
 			} else {
-				getAssetsPath(root, child, assets, names);
+				getAssetsPath(root, child, assets, names, files);
 			}
 		}
 	}
