@@ -5,11 +5,24 @@ using System.Collections.Generic;
 using System.IO;
 using System;
 using System.ComponentModel;
+using System.Xml;
+using System.Xml.Serialization;
 
 public class NxtCreateAssetBundles {
 
 	//target platform for the assetbundles
 	static BuildTarget target = BuildTarget.StandaloneWindows;
+
+	[MenuItem("Assets/XML Test")]
+	static void LaunchXMLTest(){
+
+		//save a xml
+		XmlDocument doc = new XmlDocument();
+		XmlDeclaration xmldecl;
+		xmldecl = doc.CreateXmlDeclaration("1.0","UTF-8",null);
+
+		doc.Save(Application.dataPath+"/../AssetBundles/test");
+	}
 
 	[MenuItem("Assets/Nxtomo build Resources bundle")]
 	static void ExportResourcesBundle () {
@@ -54,13 +67,11 @@ public class NxtCreateAssetBundles {
 				//edit xml
 				//Do packing
 				BuildPipeline.BuildAssetBundleExplicitAssetNames(tempAssets.ToArray(), tempNames.ToArray(), "AssetBundles/" + name, BuildAssetBundleOptions.CollectDependencies|BuildAssetBundleOptions.UncompressedAssetBundle, target);
-				Debug.Log("called");
 				batch++;
 			//reset totSize, clear temp assets and names;
 			SizeCounter = 0;
 			tempAssets.Clear();
 			tempNames.Clear();
-				Debug.Log("called2*********************************************");
 			}
 		}
 
