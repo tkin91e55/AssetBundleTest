@@ -13,8 +13,12 @@ public class NxtCreateAssetBundles {
 	//target platform for the assetbundles
 	static BuildTarget target = BuildTarget.StandaloneWindows;
 
-	[MenuItem("Assets/XML Test")]
-	static void LaunchXMLTest(){
+	//url: http://www.dotblogs.com.tw/yc421206/archive/2010/08/10/17108.aspx
+	//url: http://wiki.unity3d.com/index.php?title=Save_and_Load_from_XML
+	//url: http://msdn.microsoft.com/zh-tw/library/a8ta6tz4(v=vs.110).aspx
+
+	[MenuItem("Assets/XML Test Save")]
+	static void LaunchXMLTestSave(){
 
 		//save a xml
 		/*XmlDocument doc = new XmlDocument();
@@ -68,6 +72,51 @@ public class NxtCreateAssetBundles {
 
 		writer.Close(); 
 		Debug.Log("File written."); 
+	}
+
+	[MenuItem("Assets/XML Test Load")]
+	static void LaunchXMLTestLoad(){
+
+		/*StreamReader r = File.OpenText(Application.dataPath+"/../AssetBundles/"+ "Test.xml");
+		string _info = r.ReadToEnd(); 
+		r.Close();*/
+
+		XmlTextReader reader = new XmlTextReader(Application.dataPath+"/../AssetBundles/"+ "Test.xml");
+
+		XmlDocument doc = new XmlDocument();
+		doc.Load(reader);
+
+		XmlNode node = doc.SelectSingleNode("Company/Department");//選擇節點
+		if (node == null)
+			return;
+		XmlElement main = doc.CreateElement("newPerson"); //添加person節點
+		main.SetAttribute("name", "小明");
+		main.SetAttribute("sex", "女");
+		main.SetAttribute("age", "25");
+		node.AppendChild(main);
+		XmlElement sub1 = doc.CreateElement("phone");
+		sub1.InnerText = "123456778";
+		main.AppendChild(sub1);
+		XmlElement sub2 = doc.CreateElement("address");
+		sub2.InnerText = "高雄";
+		main.AppendChild(sub2);
+
+		StreamWriter writer; 
+		FileInfo t = new FileInfo(Application.dataPath+"/../AssetBundles/"+ "Test2.xml"); 
+		if(!t.Exists) 
+		{ 
+			writer = t.CreateText(); 
+		} 
+		else 
+		{ 
+			t.Delete(); 
+			writer = t.CreateText(); 
+		} 
+
+		writer.Write(doc.InnerXml);
+		
+		writer.Close(); 
+		Debug.Log("File2 written."); 
 	}
 
 	[MenuItem("Assets/Nxtomo build Resources bundle")]
