@@ -142,7 +142,7 @@ public class NxtCreateAssetBundles {
 			//Debug.Log(string.Format("{0} : {1}", names[i], assets[i].name));
 		//}
 
-		long SizeCounter = 0;
+		/*long SizeCounter = 0;
 		List<string> tempNames = new List<string>();
 		List<UnityEngine.Object> tempAssets = new List<UnityEngine.Object>();
 		int batch = 0;
@@ -170,9 +170,9 @@ public class NxtCreateAssetBundles {
 			}
 		}
 
-		Debug.Log("totSize is: " + SizeCounter.ToString());
+		Debug.Log("totSize is: " + SizeCounter.ToString());*/
 		
-		//BuildPipeline.BuildAssetBundleExplicitAssetNames(assets.ToArray(), names.ToArray(), "AssetBundles/docm_Resources", BuildAssetBundleOptions.CollectDependencies|BuildAssetBundleOptions.UncompressedAssetBundle, target);
+		BuildPipeline.BuildAssetBundleExplicitAssetNames(assets.ToArray(), names.ToArray(), "AssetBundles/docm_Resources", BuildAssetBundleOptions.CollectDependencies|BuildAssetBundleOptions.UncompressedAssetBundle, target);
 	}
 
 	public static void getAssets(List<UnityEngine.Object> assets, List<string> names, List<string> files)
